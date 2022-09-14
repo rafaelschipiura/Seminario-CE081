@@ -11,7 +11,7 @@ dados$Clima <- as.factor(dados$Clima)
 dados$Bioma <- as.factor(dados$Bioma)
 dados$Solofao <- as.factor(dados$Solofao)
 dados$Textura <- as.factor(dados$Textura)
-dados$phk <- cut(dados$ph, breaks=c(1,2,3,4,5,6,7,8))
+dados$phk <- cut(dados$ph, breaks=c(3,4,5,6,7,8))
 dados$phk <- as.factor(dados$phk)
 # variavel resposta "Dens"
 summary(dados)
