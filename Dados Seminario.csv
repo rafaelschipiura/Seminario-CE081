@@ -1,261 +1,261 @@
-﻿Chave;Estacao;Altitude;Prep;Temp;Clima;Bioma;Solofao;Dens;ph;p;c;Textura
-403;umida;109;1950;28;Am;Amazonico;Acrisols;42,4;3,86;3,83;18,485;Argila
-404;umida;109;1950;28;Am;Amazonico;Acrisols;58,3;5,61;8,29;10,4235;Francoarenosa
-405;umida;109;1950;28;Am;Amazonico;Acrisols;37,1;5,37;4;8,561;Francoarenosa
-406;umida;109;1950;28;Am;Amazonico;Acrisols;106;4,86;10,73;8,068;Francoarenosa
-407;umida;109;1950;28;Am;Amazonico;Acrisols;31,8;5,15;5,79;15,447;Francoarenosa
-408;umida;137;1950;28;Am;Amazonico;Acrisols;37,1;3,53;4,05;21,295;Franca
-409;umida;137;1950;28;Am;Amazonico;Acrisols;15,9;5,5;1,93;16,59;Argila
-410;umida;137;1950;28;Am;Amazonico;Acrisols;21,2;4,47;2,38;13,474;Francossiltosa
-411;umida;137;1950;28;Am;Amazonico;Acrisols;63,6;3,81;3,53;16,765;Francossiltosa
-412;umida;137;1950;28;Am;Amazonico;Acrisols;15,9;4,87;3,49;23,53;Argila
-413;umida;102;1950;28;Am;Amazonico;Acrisols;26,5;3,6;9,28;23,945;Franca
-414;umida;102;1950;28;Am;Amazonico;Acrisols;233,2;5,37;6,81;19,695;Francoarenosa
-415;umida;102;1950;28;Am;Amazonico;Acrisols;74,2;5,42;14,08;12,26;Franco-argiloarenosa
-416;umida;102;1950;28;Am;Amazonico;Acrisols;31,8;5,13;4,29;11,606;Areia franca
-417;umida;102;1950;28;Am;Amazonico;Acrisols;185,5;4,83;3;9,6425;Areia franca
-418;umida;103;1950;28;Am;Amazonico;Acrisols;26,5;4,25;7,19;9,6825;Francoarenosa
-419;umida;103;1950;28;Am;Amazonico;Acrisols;217,3;5,24;7,83;10,9505;Francoarenosa
-420;umida;103;1950;28;Am;Amazonico;Acrisols;26,5;4,44;4,49;14,71;Francoarenosa
-421;umida;103;1950;28;Am;Amazonico;Acrisols;180,2;4,78;5,49;7,9325;Francoarenosa
-422;umida;103;1950;28;Am;Amazonico;Acrisols;21,2;4,16;6,9;14,7;Francoarenosa
-423;umida;110;1950;28;Am;Amazonico;Acrisols;47,7;3,78;5,64;11,304;Franco-argiloarenosa
-424;umida;110;1950;28;Am;Amazonico;Acrisols;116,6;6,47;5,17;8,0365;Francoarenosa
-425;umida;110;1950;28;Am;Amazonico;Acrisols;42,4;4,75;8,89;8,498;Francoarenosa
-426;umida;110;1950;28;Am;Amazonico;Acrisols;42,4;4,52;5,4;11,5665;Francoarenosa
-427;umida;110;1950;28;Am;Amazonico;Acrisols;53;5,06;6,66;8,13;Francoarenosa
-428;umida;110;1950;28;Am;Amazonico;Acrisols;74,2;5,04;3,62;12,575;Francoarenosa
-429;umida;110;1950;28;Am;Amazonico;Acrisols;116,6;5,14;4,71;12,275;Francoarenosa
-430;umida;110;1950;28;Am;Amazonico;Acrisols;185,5;5,09;2,43;12,43;Franco-argiloarenosa
-431;umida;110;1950;28;Am;Amazonico;Acrisols;143,1;5,72;6,06;7,876;Franco-argiloarenosa
-432;umida;110;1950;28;Am;Amazonico;Acrisols;21,2;4,45;5,35;20,67;Francoarenosa
-433;umida;110;1950;28;Am;Amazonico;Acrisols;5,3;3,86;4,85;10,634;Francoarenosa
-434;umida;110;1950;28;Am;Amazonico;Acrisols;243,8;5,43;5,29;9,0025;Francoarenosa
-435;umida;110;1950;28;Am;Amazonico;Acrisols;217,3;4,94;4,97;12,854;Francoarenosa
-436;umida;110;1950;28;Am;Amazonico;Acrisols;164,3;4,77;7,49;10,9165;Francoarenosa
-437;umida;110;1950;28;Am;Amazonico;Acrisols;100,7;4,74;7,14;7,37;Francoarenosa
-438;umida;120;1950;28;Am;Amazonico;Acrisols;63,6;5,09;6,3;9,2045;Francoarenosa
-439;umida;120;1950;28;Am;Amazonico;Acrisols;15,9;4,53;2,92;12,51;Francoarenosa
-440;umida;120;1950;28;Am;Amazonico;Acrisols;47,7;4,45;4,22;17,47;Franco-argiloarenosa
-441;umida;120;1950;28;Am;Amazonico;Acrisols;63,6;3,91;5,57;15,71;Franco-argiloarenosa
-442;umida;120;1950;28;Am;Amazonico;Acrisols;74,2;3,95;5,27;18,8295;Franco-argiloarenosa
-443;umida;120;1950;28;Am;Amazonico;Acrisols;153,7;4,62;5,04;9,7465;Francoarenosa
-444;umida;120;1950;28;Am;Amazonico;Acrisols;26,5;4,04;6,95;12,568;Francoarenosa
-445;umida;120;1950;28;Am;Amazonico;Acrisols;26,5;4,1;4,49;8,7495;Francoarenosa
-446;umida;120;1950;28;Am;Amazonico;Acrisols;0;4,01;4,58;10,5455;Francoarenosa
-447;umida;120;1950;28;Am;Amazonico;Acrisols;0;5,16;2,67;7,7515;Francoarenosa
-448;umida;100;2000;28,5;Am;Amazonico;Acrisols;0;4,69;7,94;8,5795;Areia franca
-449;umida;100;2000;28,5;Am;Amazonico;Acrisols;63,6;5,24;24,83;7,4635;Areia
-450;umida;100;2000;28,5;Am;Amazonico;Acrisols;90,1;5,52;6,8;10,977;Francoarenosa
-451;umida;100;2000;28,5;Am;Amazonico;Acrisols;5,3;4,72;11,49;11,8615;Areia
-452;umida;126;2000;28,5;Am;Amazonico;Acrisols;10,6;5,15;12,84;6,6795;Francoarenosa
-453;umida;100;2000;28,5;Am;Amazonico;Acrisols;47,7;4,89;5,04;9,123;Franco-argiloarenosa
-454;umida;100;2000;28,5;Am;Amazonico;Acrisols;5,3;3,99;6,93;8,704;Francoarenosa
-455;umida;100;2000;28,5;Am;Amazonico;Acrisols;169,6;4,27;6,98;10,8165;Franco-argiloarenosa
-456;umida;100;2000;28,5;Am;Amazonico;Acrisols;42,4;4,62;4,74;10,8715;Francoarenosa
-457;umida;100;2000;28,5;Am;Amazonico;Acrisols;15,9;4,23;10,26;10,11;Francoarenosa
-458;umida;100;2000;28,5;Am;Amazonico;Acrisols;21,2;6,52;9,93;8,1895;Areia franca
-459;umida;126;2000;28,5;Am;Amazonico;Acrisols;15,9;6,16;3,17;11,704;Franco-argiloarenosa
-460;umida;100;2000;28,5;Am;Amazonico;Acrisols;47,7;7,08;8,22;12,365;Franco-argiloarenosa
-461;umida;100;2000;28,5;Am;Amazonico;Acrisols;26,5;5,6;6,29;10,6585;Francoarenosa
-462;umida;100;2000;28,5;Am;Amazonico;Acrisols;26,5;4,31;3,86;9,9655;Franco-argiloarenosa
-463;umida;100;2000;28,5;Am;Amazonico;Acrisols;15,9;6,25;22,6;8,0805;Francoarenosa
-464;umida;100;2000;28,5;Am;Amazonico;Acrisols;15,9;3,96;4,27;9,371;Francoarenosa
-465;umida;100;2000;28,5;Am;Amazonico;Acrisols;10,6;5,54;19,01;8,7895;Francoarenosa
-466;umida;100;2000;28,5;Am;Amazonico;Acrisols;74,2;4,38;7,63;9,655;Francoarenosa
-467;umida;126;2000;28,5;Am;Amazonico;Acrisols;42,4;4,67;4,01;11,2385;Francoarenosa
-468;umida;100;2000;28,5;Am;Amazonico;Acrisols;37,1;5,03;8,69;9,0455;Francoarenosa
-469;umida;100;2000;28,5;Am;Amazonico;Acrisols;0;4,42;5,74;14,45;Franco-argiloarenosa
-470;umida;100;2000;28,5;Am;Amazonico;Acrisols;53;5,17;5,85;12,409;Francoarenosa
-471;umida;100;2000;28,5;Am;Amazonico;Acrisols;10,6;4,64;4,34;10,7215;Francoarenosa
-472;umida;100;2000;28,5;Am;Amazonico;Acrisols;37,1;5,35;4,45;13,477;Francoarenosa
-473;umida;283;2000;28,5;Am;Amazonico;Acrisols;26,5;3,81;5,64;8,5215;Francoarenosa
-474;umida;283;2000;28,5;Am;Amazonico;Acrisols;10,6;5,68;10,77;13,174;Argiloarenosa
-475;umida;283;2000;28,5;Am;Amazonico;Acrisols;37,1;4,06;7,64;10,733;Francoarenosa
-476;umida;283;2000;28,5;Am;Amazonico;Acrisols;53;4,17;2,03;14,78;Franco-argiloarenosa
-477;umida;283;2000;28,5;Am;Amazonico;Acrisols;116,6;4,33;6,19;10,7525;Francoarenosa
-478;umida;159;2000;28,5;Am;Amazonico;Acrisols;68,9;5,39;4,26;12,126;Franco-argiloarenosa
-479;umida;159;2000;28,5;Am;Amazonico;Acrisols;26,5;4,99;6,27;14,125;Francoarenosa
-480;umida;159;2000;28,5;Am;Amazonico;Acrisols;21,2;4,78;8,29;11,721;Francoarenosa
-481;umida;159;2000;28,5;Am;Amazonico;Acrisols;15,9;4,58;6,56;7,101;Francoarenosa
-482;umida;159;2000;28,5;Am;Amazonico;Acrisols;153,7;5,84;9,46;8,5385;Francoarenosa
-483;umida;150;2000;28,5;Am;Amazonico;Acrisols;26,5;6,94;7,12;8,3135;Francoarenosa
-484;umida;150;2000;28,5;Am;Amazonico;Acrisols;79,5;5,49;4,4;12,865;Franco-argiloarenosa
-485;umida;150;2000;28,5;Am;Amazonico;Acrisols;0;5,64;11,13;9,01;Francoarenosa
-486;umida;150;2000;28,5;Am;Amazonico;Acrisols;10,6;5,75;39,29;16,905;Francoarenosa
-487;umida;150;2000;28,5;Am;Amazonico;Acrisols;10,6;4,3;7,25;7,214;Francoarenosa
-488;umida;150;2000;28,5;Am;Amazonico;Acrisols;26,5;7,78;111,58;7,733;Francoarenosa
-489;umida;150;2000;28,5;Am;Amazonico;Acrisols;68,9;4,16;5,97;10,5715;Francoarenosa
-490;umida;150;2000;28,5;Am;Amazonico;Acrisols;74,2;4,1;6,76;9,154;Francoarenosa
-491;umida;150;2000;28,5;Am;Amazonico;Acrisols;53;3,9;6,41;10,0465;Francoarenosa
-492;umida;150;2000;28,5;Am;Amazonico;Acrisols;58,3;4,09;3,26;9,736;Francoarenosa
-493;umida;182;1700;27;Am;Amazonico;Acrisols;0;5,77;4,85;16,92;Argiloarenosa
-494;umida;157;1700;27;Am;Amazonico;Acrisols;21,2;4,06;8,77;15,11;Muito argilosa
-495;umida;165;1700;27;Am;Amazonico;Acrisols;0;3,88;13,71;18,235;Muito argilosa
-496;umida;165;1700;27;Am;Amazonico;Acrisols;5,3;4,56;4,13;10,405;Argila
-497;umida;165;1700;27;Am;Amazonico;Acrisols;111,3;3,97;7,28;12,3195;Muito argilosa
-498;umida;160;1700;27;Am;Amazonico;Acrisols;53;5,4;17,11;25,902;Francoarenosa
-499;umida;160;1700;27;Am;Amazonico;Acrisols;5,3;7,43;26,65;13,045;Franco-argiloarenosa
-500;umida;160;1700;27;Am;Amazonico;Acrisols;0;7,76;31,74;13,625;Francoarenosa
-501;umida;160;1700;27;Am;Amazonico;Acrisols;0;6,53;7,32;15,98;Franca
-502;umida;160;1700;27;Am;Amazonico;Acrisols;5,3;5,52;3,72;19,14;Franca
-503;umida;160;1700;27;Am;Amazonico;Acrisols;0;3,81;12,92;21,165;Argila
-504;umida;160;1700;27;Am;Amazonico;Acrisols;42,4;3,61;5,8;18,665;Argila
-505;umida;160;1700;27;Am;Amazonico;Acrisols;5,3;4,28;10,5;14,105;Argiloarenosa
-506;umida;160;1700;27;Am;Amazonico;Acrisols;10,6;4,06;6,4;16,24;Argila
-507;umida;160;1700;27;Am;Amazonico;Acrisols;58,3;3,77;11,3;13,466;Argila
-508;umida;160;1700;27;Am;Amazonico;Acrisols;10,6;3,86;3,37;12,83;Argila
-509;umida;160;1700;27;Am;Amazonico;Acrisols;15,9;5,74;5,34;14,225;Franca
-510;umida;160;1700;27;Am;Amazonico;Acrisols;21,2;4,98;3,74;14;Argiloarenosa
-511;umida;160;1700;27;Am;Amazonico;Acrisols;0;4,46;3,68;16,66;Argila
-512;umida;160;1700;27;Am;Amazonico;Acrisols;21,2;6,93;7,13;12,4975;Franco-argiloarenosa
-513;umida;160;1700;27;Am;Amazonico;Acrisols;5,3;4,16;5,02;20,62;Muito argilosa
-514;umida;160;1700;27;Am;Amazonico;Acrisols;0;4,17;4,41;15,31;Muito argilosa
-515;umida;160;1700;27;Am;Amazonico;Acrisols;10,6;5,82;2,82;12,615;Franco-argiloarenosa
-516;umida;160;1700;27;Am;Amazonico;Acrisols;5,3;5,77;6,47;9,097;Franco-argiloarenosa
-517;umida;160;1700;27;Am;Amazonico;Acrisols;15,9;3,7;8,7;14,895;Argila
-518;umida;194;1700;27;Am;Amazonico;Acrisols;0;5,8;2,9;14,22;Franco-argiloarenosa
-519;umida;194;1700;27;Am;Amazonico;Acrisols;84,8;4,48;0,1;13,9275;Francoargilosa
-520;umida;194;1700;27;Am;Amazonico;Acrisols;106;4,17;2,83;16,005;Argiloarenosa
-521;umida;178;1700;27;Am;Amazonico;Acrisols;127,2;5,96;4,43;21,76;Argila
-522;umida;178;1700;27;Am;Amazonico;Acrisols;121,9;4,36;8,71;15,795;Muito argilosa
-523;umida;178;1700;27;Am;Amazonico;Acrisols;58,3;4,29;3,51;10,0695;Argiloarenosa
-524;umida;178;1700;27;Am;Amazonico;Acrisols;0;7,94;20,455;17,57;Franco-argiloarenosa
-525;umida;178;1700;27;Am;Amazonico;Acrisols;318;6,77;3,97;13,525;Franco-argiloarenosa
-526;umida;194;1700;27;Am;Amazonico;Acrisols;63,6;3,84;4,63;22,295;Francoargilosa
-527;umida;194;1700;27;Am;Amazonico;Acrisols;37,1;4,06;5,32;18,61;Argila
-528;umida;194;1700;27;Am;Amazonico;Acrisols;15,9;4,7;6,54;19,335;Argila
-529;umida;194;1700;27;Am;Amazonico;Acrisols;21,2;4,16;1,76;15,68;Argila
-530;umida;105;2200;25;Af;Amazonico;Ferralsols;70;4,3;5,65;;Muito argilosa
-531;umida;105;2200;25;Af;Amazonico;Ferralsols;14;3,8;3,99;;Muito argilosa
-532;umida;91;2200;25;Af;Amazonico;Ferralsols;266;4,3;3,08;;Muito argilosa
-533;umida;91;2200;25;Af;Amazonico;Ferralsols;478;4,3;2,52;;Muito argilosa
-534;umida;98;2200;25;Af;Amazonico;Ferralsols;73,33333333;3,66;1,892815883;25,06252;Muito argilosa
-535;umida;98;2200;25;Af;Amazonico;Ferralsols;73,33333333;3,423333333;2,883950734;33,36704;Muito argilosa
-536;umida;98;2200;25;Af;Amazonico;Ferralsols;69,33333333;3,743333333;3,225232351;30,3772;Muito argilosa
-537;umida;98;2200;25;Af;Amazonico;Ferralsols;277,3333333;3,783333333;2,77080653;30,20696;Muito argilosa
-538;umida;98;2200;25;Af;Amazonico;Ferralsols;121,3333333;3,633333333;2,312251227;14,9625;Muito argilosa
-539;umida;98;2200;25;Af;Amazonico;Ferralsols;145,3333333;3,53;3,121939257;40,97996;Muito argilosa
-540;umida;98;2200;25;Af;Amazonico;Ferralsols;218,6666667;3,556666667;3,473857514;26,72236;Muito argilosa
-541;umida;98;2200;25;Af;Amazonico;Ferralsols;61,33333333;3,626666667;2,932888661;34,93112;Muito argilosa
-542;umida;98;2200;25;Af;Amazonico;Ferralsols;102,6666667;3,326666667;2,648508025;36,575;Muito argilosa
-543;umida;98;2200;25;Af;Amazonico;Ferralsols;44;3,69;2,590897416;33,75806;Muito argilosa
-544;umida;120;2550;30;Af;Amazonico;Ferralsols;0;4,79;1,3;1,38;Francoarenosa
-545;umida;120;2550;30;Af;Amazonico;Ferralsols;272;4,55;6,92;2,8;Francoarenosa
-546;umida;120;2550;30;Af;Amazonico;Ferralsols;1024;5,12;62,12;6,24;Franco-argiloarenosa
-547;umida;120;2550;30;Af;Amazonico;Ferralsols;416;3,63;2,75;8,26;Francoarenosa
-548;umida;220;1622;25,4;Am;Amazonico;Acrisols;44,65;4,8;5,7;20,17;Argila
-549;umida;220;1622;25,4;Am;Amazonico;Acrisols;54,65;5,4;4;14,65;Argila
-550;umida;220;1622;25,4;Am;Amazonico;Acrisols;93,35;4,9;5,2;18,95;Argila
-551;umida;220;1622;25,4;Am;Amazonico;Acrisols;44,25;5,5;4,4;20,35;Argila
-552;umida;220;1622;25,4;Am;Amazonico;Acrisols;96;5,1;4;13,37;Argila
-553;umida;200;1800;26;Am;Amazonico;Ferralsols;347;5,1;1,610770702;1,106666667;Argiloarenosa
-554;umida;200;1800;26;Am;Amazonico;Ferralsols;208;5,7;2,530625163;1,25;Franco-argiloarenosa
-555;umida;200;1800;26;Am;Amazonico;Ferralsols;336;4,5;1,916728661;0,986666667;Argiloarenosa
-556;umida;200;1800;26;Am;Amazonico;Ferralsols;341;4,4;3,027879126;1,38;Argiloarenosa
-557;umida;200;1800;26;Am;Amazonico;Ferralsols;336;4,4;2,356463941;1,08;Argiloarenosa
-558;umida;200;1800;26;Am;Amazonico;Ferralsols;368;4,6;2,225196571;1,123333333;Franco-argiloarenosa
-559;umida;200;1800;26;Am;Amazonico;Ferralsols;411;4,4;2,606738932;1,036666667;Franco-argiloarenosa
-560;umida;200;1800;26;Am;Amazonico;Ferralsols;128;4,8;2,185567906;0,893333333;Franco-argiloarenosa
-561;umida;200;1800;26;Am;Amazonico;Ferralsols;117;5,1;1,587711481;1,086666667;Argiloarenosa
-562;umida;200;1800;26;Am;Amazonico;Ferralsols;123;4,3;3,383547648;1,2;Franco-argiloarenosa
-563;umida;200;1800;26;Am;Amazonico;Ferralsols;256;4,7;1,875272265;1,146666667;Argiloarenosa
-564;umida;200;1800;26;Am;Amazonico;Ferralsols;325;4,5;1,911838056;1,046666667;Argiloarenosa
-565;umida;200;1800;26;Am;Amazonico;Ferralsols;555;4,7;2,291638367;1,32;Argiloarenosa
-566;umida;200;1800;26;Am;Amazonico;Ferralsols;181;4,7;1,995298246;1,016666667;Franco-argiloarenosa
-567;umida;200;1800;26;Am;Amazonico;Ferralsols;320;4,8;1,463795041;1,163333333;Argiloarenosa
-568;umida;200;1800;26;Am;Amazonico;Ferralsols;304;4,8;2,444594283;1,103333333;Franco-argiloarenosa
-569;umida;200;1750;26;Am;Amazonico;Cambisols;68,8;3,95;5,4;1,175;Francoargilosa
-570;umida;193;1750;26;Am;Amazonico;Cambisols;73,6;4,4;3,7;1,3;Francoargilosa
-571;umida;185;1750;26;Am;Amazonico;Ferralsols;48,85;4,15;4,2;1,19;Francoargilosa
-572;umida;189;1750;26;Am;Amazonico;Ferralsols;64;5,5;5,3;0,9;Argila
-573;umida;200;1750;26;Am;Amazonico;Ferralsols;75,2;3,7;1,5;1,22;Argila
-574;umida;200;1750;26;Am;Amazonico;Cambisols;56;6,2;5,5;0,86;Argila
-575;umida;200;1750;26;Am;Amazonico;Ferralsols;41,825;4,975;2,475;1,0825;Argila
-576;umida;200;1750;26;Am;Amazonico;Cambisols;73,6;4,9;1,5;1;Argila
-577;umida;201;1750;26;Am;Amazonico;Ferralsols;41,6;3,65;3,5;1,585;Franca
-578;umida;203;1750;26;Am;Amazonico;Cambisols;120;4,4;1,5;1,13;Francoargilosa
-579;umida;199;1750;26;Am;Amazonico;Ferralsols;90,65;4,65;2,3;1,085;Francoargilosa
-580;umida;200;1750;26;Am;Amazonico;Ferralsols;16;3,9;5,1;1,18;Argila
-581;umida;200;1750;26;Am;Amazonico;Cambisols;46;3,7;0,4;1,15;Argila
-582;umida;200;1750;26;Am;Amazonico;Ferralsols;49,6;4,4;1,9;1,52;Muito argilosa
-583;umida;200;1750;26;Am;Amazonico;Ferralsols;3,2;4,5;5,6;0,95;Argiloarenosa
-584;umida;200;1750;26;Am;Amazonico;Cambisols;112;4,2;2,6;1,12;Argila
-585;umida;200;1750;26;Am;Amazonico;Ferralsols;78,4;3,8;2,2;1,33;Argila
-586;umida;200;1750;26;Am;Amazonico;Ferralsols;41,1;3,8;5,8;1,77;Muito argilosa
-587;umida;202;1750;26;Am;Amazonico;Ferralsols;76,8;3,7;3;1,28;Argila
-588;umida;200;1750;26;Am;Amazonico;Ferralsols;73,6;3,8;2,5;1,61;Argila
-589;umida;221;2000;25;Am;Amazonico;Acrisols;26;3,8;2;1,126666667;Argiloarenosa
-590;umida;168;2000;25;Am;Amazonico;Ferralsols;109;3,633333333;1;1,46;Muito argilosa
-591;umida;147;2000;25;Am;Amazonico;Ferralsols;6;4,066666667;2;1,97;Argila
-592;umida;221;2000;25;Am;Amazonico;Acrisols;13;3,933333333;2,333333333;1,363333333;Argila
-593;umida;221;2000;25;Am;Amazonico;Acrisols;3;4,6;3,666666667;1,173333333;Argiloarenosa
-594;umida;147;2000;25;Am;Amazonico;Ferralsols;106;5,533333333;3,333333333;1,506666667;Franco-argiloarenosa
-595;umida;144;2000;25;Am;Amazonico;Acrisols;90;5,233333333;2,333333333;0,986666667;Francoarenosa
-596;umida;144;2000;25;Am;Amazonico;Acrisols;109;5,866666667;5;0,766666667;Francoarenosa
-597;umida;168;2000;25;Am;Amazonico;Ferralsols;48;4,3;1;1,61;Muito argilosa
-598;umida;144;2000;25;Am;Amazonico;Acrisols;374;5,966666667;4;1,276666667;Francoarenosa
-599;umida;221;2000;25;Am;Amazonico;Acrisols;80;4,6;1,333333333;1,173333333;Argiloarenosa
-600;umida;147;2000;25;Am;Amazonico;Ferralsols;10;4,866666667;1,666666667;1,056666667;Franca
-601;umida;221;2000;25;Am;Amazonico;Acrisols;35;3,666666667;2;1,013333333;Argiloarenosa
-602;umida;221;2000;25;Am;Amazonico;Acrisols;131;6,066666667;13;1,196666667;Argiloarenosa
-603;umida;147;2000;25;Am;Amazonico;Ferralsols;16;3,9;2;1,583333333;Muito argilosa
-609;umida;38;2700;26;Am;Amazonico;Ferralsols;240;5;49,5;12,15;Franco-argiloarenosa
-610;umida;38;2700;27;Am;Amazonico;Ferralsols;252;4,3;7,75;12,16;Franco-argiloarenosa
-611;umida;38;2700;28;Am;Amazonico;Ferralsols;76;4,7;6,25;11,48;Franco-argiloarenosa
-612;umida;38;2700;29;Am;Amazonico;Ferralsols;220;4,6;4,5;11,51;Franco-argiloarenosa
-618;seca;20;2080;27,5;As;Amazonico;Gleysols;16;5,04;4,1;26,56612529;Franco-argiloarenosa
-620;umida;36;2290;27;Am;Amazonico;Ferralsols;246,4;4,52;4;15,25522042;Areia franca
-621;umida;34;2290;27;Am;Amazonico;Ferralsols;89,6;4,54;3,3;14,26914153;Areia franca
-622;umida;39;2290;27;Am;Amazonico;Ferralsols;140,8;4,35;2,1;10,96287703;Areia franca
-623;umida;42;2290;27;Am;Amazonico;Ferralsols;326,4;4,43;3,1;12,52900232;Muito argilosa
-624;seca;37;2290;27;As;Amazonico;Ferralsols;108,8;3,84;2,8;10,26682135;Francoarenosa
-625;umida;228;1794;26,5;Aw;Amazonico;Ferralsols;16;5,28;4,9;28,24825986;Argila
-626;umida;269;1794;26,5;Aw;Amazonico;Ferralsols;10,66666667;4,46;2,5;16,29930394;Argilossiltosa
-627;umida;280;1794;26,5;Aw;Amazonico;Ferralsols;3,2;5,17;2,5;18,9675174;Argilossiltosa
-628;umida;269;1794;26,5;Aw;Amazonico;Ferralsols;0;5,13;1,6;19,83758701;Muito argilosa
-629;umida;288;1794;26,5;Aw;Amazonico;Ferralsols;6,4;5,6;2,7;20,30162413;Argilossiltosa
-630;umida;255;1794;26,5;Aw;Amazonico;Ferralsols;3,2;4,08;2,4;18,15545244;Argilossiltosa
-631;umida;256;1794;26,5;Aw;Amazonico;Ferralsols;0;4,25;3,1;22,67981439;Argilossiltosa
-632;umida;290;1794;26,5;Aw;Amazonico;Ferralsols;9,6;4,52;4,7;23,95591647;Francoarenosa
-633;umida;228;1794;26,5;Aw;Amazonico;Ferralsols;3,2;4,36;3,1;17,74941995;Franca
-634;seca;30;2440;28;Af;Amazonico;Ferralsols;358,4;3,74;3,9;20,41763341;Francoarenosa
-635;seca;70;2440;28;Am;Amazonico;Ferralsols;188,8;3,79;4,8;17,05336427;Franco-argiloarenosa
-636;seca;36;2440;28;Af;Amazonico;Ferralsols;83,2;3,97;2,5;24,47795824;Francoarenosa
-637;seca;49;2440;28;Af;Amazonico;Ferralsols;220,8;4,1;2,1;10,49883991;Francoarenosa
-638;seca;47;2440;28;Af;Amazonico;Ferralsols;188,8;4,38;2,3;14,67517401;Franco-argiloarenosa
-639;seca;43;2440;28;Af;Amazonico;Ferralsols;284,8;3,97;7,4;14,32714617;Areia franca
-640;seca;53;2440;28;Af;Amazonico;Ferralsols;278,4;5,02;4;12,87703016;Francoarenosa
-641;seca;27;2440;28;Af;Amazonico;Ferralsols;172,8;3,85;3,4;12,6450116;Francoarenosa
-642;seca;37;2440;28;Af;Amazonico;Ferralsols;134,4;3,53;1,4;20,01160093;Francoargilosa
-643;seca;24;2440;28;Af;Amazonico;Ferralsols;204,8;3,82;1,4;23,20185615;Areia franca
-644;seca;43;2440;28;Af;Amazonico;Ferralsols;0;3,62;1,5;17,57540603;Franco-argiloarenosa
-645;seca;19;2440;28;Af;Amazonico;Ferralsols;230,4;4,08;2,9;15,48723898;Francoarenosa
-646;seca;40;2440;28;Af;Amazonico;Ferralsols;147,2;4,81;1,6;18,32946636;Francoarenosa
-647;seca;36;2440;28;Af;Amazonico;Ferralsols;188,8;4,3;1,7;16,06728538;Francoarenosa
-648;seca;23;2440;28;Af;Amazonico;Ferralsols;236,8;3,73;1,8;16,41531323;Francoarenosa
-649;seca;24;2440;28;Af;Amazonico;Ferralsols;416;4,26;1,7;25,98607889;Francoarenosa
-650;seca;28;2440;28;Af;Amazonico;Ferralsols;198,4;4,2;1,5;23,49187935;Franco-argiloarenosa
-651;seca;296;1520;28,5;Aw;Amazonico;Ferralsols;3,2;4,158;1,64;20,83526682;Francossiltosa
-652;seca;38;2186;30;As;Amazonico;Ferralsols;60,8;3,52;3,1;15,25522042;Argila
-653;seca;38;2186;30;As;Amazonico;Ferralsols;60,8;3,66;3,4;19,72157773;Francoarenosa
-654;umida;26;1826;27,5;As;Amazonico;Acrisols;195,2;4,422;22,78;17,92343387;Francoarenosa
-655;umida;21;1826;27,5;As;Amazonico;Acrisols;124,8;4,944;18,2;17,99303944;Francoarenosa
-656;umida;13;1826;27,5;As;Amazonico;Acrisols;73,6;4,91;3,5;13,45707657;Areia franca
-657;umida;14;1826;27,5;As;Amazonico;Acrisols;192;5,04;5;15,13921114;Franco-argiloarenosa
-658;umida;38;1826;27,5;As;Amazonico;Acrisols;108,8;5,29;5,1;24,88399072;Areia franca
-659;umida;56;1826;27,5;As;Amazonico;Acrisols;326,4;4,63;2,6;12,29698376;Areia franca
-660;umida;189;1993;26,5;Aw;Amazonico;Acrisols;9,6;3,7;3,5;14,55916473;Francoarenosa
-661;umida;175;1993;26,5;Aw;Amazonico;Acrisols;51,2;3,57;2,9;12,12296984;Francoarenosa
-662;umida;182;1993;26,5;Aw;Amazonico;Acrisols;3,2;3,62;4,7;14,44315545;Areia franca
-663;umida;154;1993;26,5;Aw;Amazonico;Acrisols;38,4;3,91;2,9;13,34106729;Areia franca
-664;umida;182;1993;26,5;Aw;Amazonico;Acrisols;6,4;3,56;3,1;18,44547564;Franca
-665;umida;169;1993;26,5;Aw;Amazonico;Acrisols;22,4;3,6;2,8;14,90719258;Franco-argiloarenosa
-604;umida;155;1800;24,5;Am;Amazonico;Acrisols;18,44333333;3,3;4;8,12;Franca
-605;umida;155;1800;24,5;Am;Amazonico;Acrisols;3,988333333;3,3;5,23;7,44;Franca
-606;umida;155;1800;24,5;Am;Amazonico;Acrisols;0,686666667;3,2;3,45;7,54;Franca
-607;umida;155;2000;22;Am;Amazonico;Acrisols;19,96666667;4,766666667;6,45;13,9;Argila
-608;umida;155;2000;22;Am;Amazonico;Acrisols;15,53333333;4,766666667;7,21;15;Argila
+﻿Chave;Estacao;Altitude;Prep;Temp;Clima;Bioma;Solofao;Dens;pH;p;c;Textura
+403;umida;109;1950;28;Am;Amazonia;Acrisols;42,4;3,86;3,83;18,485;Argila
+404;umida;109;1950;28;Am;Amazonia;Acrisols;58,3;5,61;8,29;10,4235;Francoarenosa
+405;umida;109;1950;28;Am;Amazonia;Acrisols;37,1;5,37;4;8,561;Francoarenosa
+406;umida;109;1950;28;Am;Amazonia;Acrisols;106;4,86;10,73;8,068;Francoarenosa
+407;umida;109;1950;28;Am;Amazonia;Acrisols;31,8;5,15;5,79;15,447;Francoarenosa
+408;umida;137;1950;28;Am;Amazonia;Acrisols;37,1;3,53;4,05;21,295;Franca
+409;umida;137;1950;28;Am;Amazonia;Acrisols;15,9;5,5;1,93;16,59;Argila
+410;umida;137;1950;28;Am;Amazonia;Acrisols;21,2;4,47;2,38;13,474;Francossiltosa
+411;umida;137;1950;28;Am;Amazonia;Acrisols;63,6;3,81;3,53;16,765;Francossiltosa
+412;umida;137;1950;28;Am;Amazonia;Acrisols;15,9;4,87;3,49;23,53;Argila
+413;umida;102;1950;28;Am;Amazonia;Acrisols;26,5;3,6;9,28;23,945;Franca
+414;umida;102;1950;28;Am;Amazonia;Acrisols;233,2;5,37;6,81;19,695;Francoarenosa
+415;umida;102;1950;28;Am;Amazonia;Acrisols;74,2;5,42;14,08;12,26;Franco-argiloarenosa
+416;umida;102;1950;28;Am;Amazonia;Acrisols;31,8;5,13;4,29;11,606;Areia franca
+417;umida;102;1950;28;Am;Amazonia;Acrisols;185,5;4,83;3;9,6425;Areia franca
+418;umida;103;1950;28;Am;Amazonia;Acrisols;26,5;4,25;7,19;9,6825;Francoarenosa
+419;umida;103;1950;28;Am;Amazonia;Acrisols;217,3;5,24;7,83;10,9505;Francoarenosa
+420;umida;103;1950;28;Am;Amazonia;Acrisols;26,5;4,44;4,49;14,71;Francoarenosa
+421;umida;103;1950;28;Am;Amazonia;Acrisols;180,2;4,78;5,49;7,9325;Francoarenosa
+422;umida;103;1950;28;Am;Amazonia;Acrisols;21,2;4,16;6,9;14,7;Francoarenosa
+423;umida;110;1950;28;Am;Amazonia;Acrisols;47,7;3,78;5,64;11,304;Franco-argiloarenosa
+424;umida;110;1950;28;Am;Amazonia;Acrisols;116,6;6,47;5,17;8,0365;Francoarenosa
+425;umida;110;1950;28;Am;Amazonia;Acrisols;42,4;4,75;8,89;8,498;Francoarenosa
+426;umida;110;1950;28;Am;Amazonia;Acrisols;42,4;4,52;5,4;11,5665;Francoarenosa
+427;umida;110;1950;28;Am;Amazonia;Acrisols;53;5,06;6,66;8,13;Francoarenosa
+428;umida;110;1950;28;Am;Amazonia;Acrisols;74,2;5,04;3,62;12,575;Francoarenosa
+429;umida;110;1950;28;Am;Amazonia;Acrisols;116,6;5,14;4,71;12,275;Francoarenosa
+430;umida;110;1950;28;Am;Amazonia;Acrisols;185,5;5,09;2,43;12,43;Franco-argiloarenosa
+431;umida;110;1950;28;Am;Amazonia;Acrisols;143,1;5,72;6,06;7,876;Franco-argiloarenosa
+432;umida;110;1950;28;Am;Amazonia;Acrisols;21,2;4,45;5,35;20,67;Francoarenosa
+433;umida;110;1950;28;Am;Amazonia;Acrisols;5,3;3,86;4,85;10,634;Francoarenosa
+434;umida;110;1950;28;Am;Amazonia;Acrisols;243,8;5,43;5,29;9,0025;Francoarenosa
+435;umida;110;1950;28;Am;Amazonia;Acrisols;217,3;4,94;4,97;12,854;Francoarenosa
+436;umida;110;1950;28;Am;Amazonia;Acrisols;164,3;4,77;7,49;10,9165;Francoarenosa
+437;umida;110;1950;28;Am;Amazonia;Acrisols;100,7;4,74;7,14;7,37;Francoarenosa
+438;umida;120;1950;28;Am;Amazonia;Acrisols;63,6;5,09;6,3;9,2045;Francoarenosa
+439;umida;120;1950;28;Am;Amazonia;Acrisols;15,9;4,53;2,92;12,51;Francoarenosa
+440;umida;120;1950;28;Am;Amazonia;Acrisols;47,7;4,45;4,22;17,47;Franco-argiloarenosa
+441;umida;120;1950;28;Am;Amazonia;Acrisols;63,6;3,91;5,57;15,71;Franco-argiloarenosa
+442;umida;120;1950;28;Am;Amazonia;Acrisols;74,2;3,95;5,27;18,8295;Franco-argiloarenosa
+443;umida;120;1950;28;Am;Amazonia;Acrisols;153,7;4,62;5,04;9,7465;Francoarenosa
+444;umida;120;1950;28;Am;Amazonia;Acrisols;26,5;4,04;6,95;12,568;Francoarenosa
+445;umida;120;1950;28;Am;Amazonia;Acrisols;26,5;4,1;4,49;8,7495;Francoarenosa
+446;umida;120;1950;28;Am;Amazonia;Acrisols;0;4,01;4,58;10,5455;Francoarenosa
+447;umida;120;1950;28;Am;Amazonia;Acrisols;0;5,16;2,67;7,7515;Francoarenosa
+448;umida;100;2000;28,5;Am;Amazonia;Acrisols;0;4,69;7,94;8,5795;Areia franca
+449;umida;100;2000;28,5;Am;Amazonia;Acrisols;63,6;5,24;24,83;7,4635;Areia
+450;umida;100;2000;28,5;Am;Amazonia;Acrisols;90,1;5,52;6,8;10,977;Francoarenosa
+451;umida;100;2000;28,5;Am;Amazonia;Acrisols;5,3;4,72;11,49;11,8615;Areia
+452;umida;126;2000;28,5;Am;Amazonia;Acrisols;10,6;5,15;12,84;6,6795;Francoarenosa
+453;umida;100;2000;28,5;Am;Amazonia;Acrisols;47,7;4,89;5,04;9,123;Franco-argiloarenosa
+454;umida;100;2000;28,5;Am;Amazonia;Acrisols;5,3;3,99;6,93;8,704;Francoarenosa
+455;umida;100;2000;28,5;Am;Amazonia;Acrisols;169,6;4,27;6,98;10,8165;Franco-argiloarenosa
+456;umida;100;2000;28,5;Am;Amazonia;Acrisols;42,4;4,62;4,74;10,8715;Francoarenosa
+457;umida;100;2000;28,5;Am;Amazonia;Acrisols;15,9;4,23;10,26;10,11;Francoarenosa
+458;umida;100;2000;28,5;Am;Amazonia;Acrisols;21,2;6,52;9,93;8,1895;Areia franca
+459;umida;126;2000;28,5;Am;Amazonia;Acrisols;15,9;6,16;3,17;11,704;Franco-argiloarenosa
+460;umida;100;2000;28,5;Am;Amazonia;Acrisols;47,7;7,08;8,22;12,365;Franco-argiloarenosa
+461;umida;100;2000;28,5;Am;Amazonia;Acrisols;26,5;5,6;6,29;10,6585;Francoarenosa
+462;umida;100;2000;28,5;Am;Amazonia;Acrisols;26,5;4,31;3,86;9,9655;Franco-argiloarenosa
+463;umida;100;2000;28,5;Am;Amazonia;Acrisols;15,9;6,25;22,6;8,0805;Francoarenosa
+464;umida;100;2000;28,5;Am;Amazonia;Acrisols;15,9;3,96;4,27;9,371;Francoarenosa
+465;umida;100;2000;28,5;Am;Amazonia;Acrisols;10,6;5,54;19,01;8,7895;Francoarenosa
+466;umida;100;2000;28,5;Am;Amazonia;Acrisols;74,2;4,38;7,63;9,655;Francoarenosa
+467;umida;126;2000;28,5;Am;Amazonia;Acrisols;42,4;4,67;4,01;11,2385;Francoarenosa
+468;umida;100;2000;28,5;Am;Amazonia;Acrisols;37,1;5,03;8,69;9,0455;Francoarenosa
+469;umida;100;2000;28,5;Am;Amazonia;Acrisols;0;4,42;5,74;14,45;Franco-argiloarenosa
+470;umida;100;2000;28,5;Am;Amazonia;Acrisols;53;5,17;5,85;12,409;Francoarenosa
+471;umida;100;2000;28,5;Am;Amazonia;Acrisols;10,6;4,64;4,34;10,7215;Francoarenosa
+472;umida;100;2000;28,5;Am;Amazonia;Acrisols;37,1;5,35;4,45;13,477;Francoarenosa
+473;umida;283;2000;28,5;Am;Amazonia;Acrisols;26,5;3,81;5,64;8,5215;Francoarenosa
+474;umida;283;2000;28,5;Am;Amazonia;Acrisols;10,6;5,68;10,77;13,174;Argiloarenosa
+475;umida;283;2000;28,5;Am;Amazonia;Acrisols;37,1;4,06;7,64;10,733;Francoarenosa
+476;umida;283;2000;28,5;Am;Amazonia;Acrisols;53;4,17;2,03;14,78;Franco-argiloarenosa
+477;umida;283;2000;28,5;Am;Amazonia;Acrisols;116,6;4,33;6,19;10,7525;Francoarenosa
+478;umida;159;2000;28,5;Am;Amazonia;Acrisols;68,9;5,39;4,26;12,126;Franco-argiloarenosa
+479;umida;159;2000;28,5;Am;Amazonia;Acrisols;26,5;4,99;6,27;14,125;Francoarenosa
+480;umida;159;2000;28,5;Am;Amazonia;Acrisols;21,2;4,78;8,29;11,721;Francoarenosa
+481;umida;159;2000;28,5;Am;Amazonia;Acrisols;15,9;4,58;6,56;7,101;Francoarenosa
+482;umida;159;2000;28,5;Am;Amazonia;Acrisols;153,7;5,84;9,46;8,5385;Francoarenosa
+483;umida;150;2000;28,5;Am;Amazonia;Acrisols;26,5;6,94;7,12;8,3135;Francoarenosa
+484;umida;150;2000;28,5;Am;Amazonia;Acrisols;79,5;5,49;4,4;12,865;Franco-argiloarenosa
+485;umida;150;2000;28,5;Am;Amazonia;Acrisols;0;5,64;11,13;9,01;Francoarenosa
+486;umida;150;2000;28,5;Am;Amazonia;Acrisols;10,6;5,75;39,29;16,905;Francoarenosa
+487;umida;150;2000;28,5;Am;Amazonia;Acrisols;10,6;4,3;7,25;7,214;Francoarenosa
+488;umida;150;2000;28,5;Am;Amazonia;Acrisols;26,5;7,78;111,58;7,733;Francoarenosa
+489;umida;150;2000;28,5;Am;Amazonia;Acrisols;68,9;4,16;5,97;10,5715;Francoarenosa
+490;umida;150;2000;28,5;Am;Amazonia;Acrisols;74,2;4,1;6,76;9,154;Francoarenosa
+491;umida;150;2000;28,5;Am;Amazonia;Acrisols;53;3,9;6,41;10,0465;Francoarenosa
+492;umida;150;2000;28,5;Am;Amazonia;Acrisols;58,3;4,09;3,26;9,736;Francoarenosa
+493;umida;182;1700;27;Am;Amazonia;Acrisols;0;5,77;4,85;16,92;Argiloarenosa
+494;umida;157;1700;27;Am;Amazonia;Acrisols;21,2;4,06;8,77;15,11;Muito argilosa
+495;umida;165;1700;27;Am;Amazonia;Acrisols;0;3,88;13,71;18,235;Muito argilosa
+496;umida;165;1700;27;Am;Amazonia;Acrisols;5,3;4,56;4,13;10,405;Argila
+497;umida;165;1700;27;Am;Amazonia;Acrisols;111,3;3,97;7,28;12,3195;Muito argilosa
+498;umida;160;1700;27;Am;Amazonia;Acrisols;53;5,4;17,11;25,902;Francoarenosa
+499;umida;160;1700;27;Am;Amazonia;Acrisols;5,3;7,43;26,65;13,045;Franco-argiloarenosa
+500;umida;160;1700;27;Am;Amazonia;Acrisols;0;7,76;31,74;13,625;Francoarenosa
+501;umida;160;1700;27;Am;Amazonia;Acrisols;0;6,53;7,32;15,98;Franca
+502;umida;160;1700;27;Am;Amazonia;Acrisols;5,3;5,52;3,72;19,14;Franca
+503;umida;160;1700;27;Am;Amazonia;Acrisols;0;3,81;12,92;21,165;Argila
+504;umida;160;1700;27;Am;Amazonia;Acrisols;42,4;3,61;5,8;18,665;Argila
+505;umida;160;1700;27;Am;Amazonia;Acrisols;5,3;4,28;10,5;14,105;Argiloarenosa
+506;umida;160;1700;27;Am;Amazonia;Acrisols;10,6;4,06;6,4;16,24;Argila
+507;umida;160;1700;27;Am;Amazonia;Acrisols;58,3;3,77;11,3;13,466;Argila
+508;umida;160;1700;27;Am;Amazonia;Acrisols;10,6;3,86;3,37;12,83;Argila
+509;umida;160;1700;27;Am;Amazonia;Acrisols;15,9;5,74;5,34;14,225;Franca
+510;umida;160;1700;27;Am;Amazonia;Acrisols;21,2;4,98;3,74;14;Argiloarenosa
+511;umida;160;1700;27;Am;Amazonia;Acrisols;0;4,46;3,68;16,66;Argila
+512;umida;160;1700;27;Am;Amazonia;Acrisols;21,2;6,93;7,13;12,4975;Franco-argiloarenosa
+513;umida;160;1700;27;Am;Amazonia;Acrisols;5,3;4,16;5,02;20,62;Muito argilosa
+514;umida;160;1700;27;Am;Amazonia;Acrisols;0;4,17;4,41;15,31;Muito argilosa
+515;umida;160;1700;27;Am;Amazonia;Acrisols;10,6;5,82;2,82;12,615;Franco-argiloarenosa
+516;umida;160;1700;27;Am;Amazonia;Acrisols;5,3;5,77;6,47;9,097;Franco-argiloarenosa
+517;umida;160;1700;27;Am;Amazonia;Acrisols;15,9;3,7;8,7;14,895;Argila
+518;umida;194;1700;27;Am;Amazonia;Acrisols;0;5,8;2,9;14,22;Franco-argiloarenosa
+519;umida;194;1700;27;Am;Amazonia;Acrisols;84,8;4,48;0,1;13,9275;Francoargilosa
+520;umida;194;1700;27;Am;Amazonia;Acrisols;106;4,17;2,83;16,005;Argiloarenosa
+521;umida;178;1700;27;Am;Amazonia;Acrisols;127,2;5,96;4,43;21,76;Argila
+522;umida;178;1700;27;Am;Amazonia;Acrisols;121,9;4,36;8,71;15,795;Muito argilosa
+523;umida;178;1700;27;Am;Amazonia;Acrisols;58,3;4,29;3,51;10,0695;Argiloarenosa
+524;umida;178;1700;27;Am;Amazonia;Acrisols;0;7,94;20,455;17,57;Franco-argiloarenosa
+525;umida;178;1700;27;Am;Amazonia;Acrisols;318;6,77;3,97;13,525;Franco-argiloarenosa
+526;umida;194;1700;27;Am;Amazonia;Acrisols;63,6;3,84;4,63;22,295;Francoargilosa
+527;umida;194;1700;27;Am;Amazonia;Acrisols;37,1;4,06;5,32;18,61;Argila
+528;umida;194;1700;27;Am;Amazonia;Acrisols;15,9;4,7;6,54;19,335;Argila
+529;umida;194;1700;27;Am;Amazonia;Acrisols;21,2;4,16;1,76;15,68;Argila
+530;umida;105;2200;25;Af;Amazonia;Ferralsols;70;4,3;5,65;;Muito argilosa
+531;umida;105;2200;25;Af;Amazonia;Ferralsols;14;3,8;3,99;;Muito argilosa
+532;umida;91;2200;25;Af;Amazonia;Ferralsols;266;4,3;3,08;;Muito argilosa
+533;umida;91;2200;25;Af;Amazonia;Ferralsols;478;4,3;2,52;;Muito argilosa
+534;umida;98;2200;25;Af;Amazonia;Ferralsols;73,33333333;3,66;1,892815883;25,06252;Muito argilosa
+535;umida;98;2200;25;Af;Amazonia;Ferralsols;73,33333333;3,423333333;2,883950734;33,36704;Muito argilosa
+536;umida;98;2200;25;Af;Amazonia;Ferralsols;69,33333333;3,743333333;3,225232351;30,3772;Muito argilosa
+537;umida;98;2200;25;Af;Amazonia;Ferralsols;277,3333333;3,783333333;2,77080653;30,20696;Muito argilosa
+538;umida;98;2200;25;Af;Amazonia;Ferralsols;121,3333333;3,633333333;2,312251227;14,9625;Muito argilosa
+539;umida;98;2200;25;Af;Amazonia;Ferralsols;145,3333333;3,53;3,121939257;40,97996;Muito argilosa
+540;umida;98;2200;25;Af;Amazonia;Ferralsols;218,6666667;3,556666667;3,473857514;26,72236;Muito argilosa
+541;umida;98;2200;25;Af;Amazonia;Ferralsols;61,33333333;3,626666667;2,932888661;34,93112;Muito argilosa
+542;umida;98;2200;25;Af;Amazonia;Ferralsols;102,6666667;3,326666667;2,648508025;36,575;Muito argilosa
+543;umida;98;2200;25;Af;Amazonia;Ferralsols;44;3,69;2,590897416;33,75806;Muito argilosa
+544;umida;120;2550;30;Af;Amazonia;Ferralsols;0;4,79;1,3;1,38;Francoarenosa
+545;umida;120;2550;30;Af;Amazonia;Ferralsols;272;4,55;6,92;2,8;Francoarenosa
+546;umida;120;2550;30;Af;Amazonia;Ferralsols;1024;5,12;62,12;6,24;Franco-argiloarenosa
+547;umida;120;2550;30;Af;Amazonia;Ferralsols;416;3,63;2,75;8,26;Francoarenosa
+548;umida;220;1622;25,4;Am;Amazonia;Acrisols;44,65;4,8;5,7;20,17;Argila
+549;umida;220;1622;25,4;Am;Amazonia;Acrisols;54,65;5,4;4;14,65;Argila
+550;umida;220;1622;25,4;Am;Amazonia;Acrisols;93,35;4,9;5,2;18,95;Argila
+551;umida;220;1622;25,4;Am;Amazonia;Acrisols;44,25;5,5;4,4;20,35;Argila
+552;umida;220;1622;25,4;Am;Amazonia;Acrisols;96;5,1;4;13,37;Argila
+553;umida;200;1800;26;Am;Amazonia;Ferralsols;347;5,1;1,610770702;1,106666667;Argiloarenosa
+554;umida;200;1800;26;Am;Amazonia;Ferralsols;208;5,7;2,530625163;1,25;Franco-argiloarenosa
+555;umida;200;1800;26;Am;Amazonia;Ferralsols;336;4,5;1,916728661;0,986666667;Argiloarenosa
+556;umida;200;1800;26;Am;Amazonia;Ferralsols;341;4,4;3,027879126;1,38;Argiloarenosa
+557;umida;200;1800;26;Am;Amazonia;Ferralsols;336;4,4;2,356463941;1,08;Argiloarenosa
+558;umida;200;1800;26;Am;Amazonia;Ferralsols;368;4,6;2,225196571;1,123333333;Franco-argiloarenosa
+559;umida;200;1800;26;Am;Amazonia;Ferralsols;411;4,4;2,606738932;1,036666667;Franco-argiloarenosa
+560;umida;200;1800;26;Am;Amazonia;Ferralsols;128;4,8;2,185567906;0,893333333;Franco-argiloarenosa
+561;umida;200;1800;26;Am;Amazonia;Ferralsols;117;5,1;1,587711481;1,086666667;Argiloarenosa
+562;umida;200;1800;26;Am;Amazonia;Ferralsols;123;4,3;3,383547648;1,2;Franco-argiloarenosa
+563;umida;200;1800;26;Am;Amazonia;Ferralsols;256;4,7;1,875272265;1,146666667;Argiloarenosa
+564;umida;200;1800;26;Am;Amazonia;Ferralsols;325;4,5;1,911838056;1,046666667;Argiloarenosa
+565;umida;200;1800;26;Am;Amazonia;Ferralsols;555;4,7;2,291638367;1,32;Argiloarenosa
+566;umida;200;1800;26;Am;Amazonia;Ferralsols;181;4,7;1,995298246;1,016666667;Franco-argiloarenosa
+567;umida;200;1800;26;Am;Amazonia;Ferralsols;320;4,8;1,463795041;1,163333333;Argiloarenosa
+568;umida;200;1800;26;Am;Amazonia;Ferralsols;304;4,8;2,444594283;1,103333333;Franco-argiloarenosa
+569;umida;200;1750;26;Am;Amazonia;Cambisols;68,8;3,95;5,4;1,175;Francoargilosa
+570;umida;193;1750;26;Am;Amazonia;Cambisols;73,6;4,4;3,7;1,3;Francoargilosa
+571;umida;185;1750;26;Am;Amazonia;Ferralsols;48,85;4,15;4,2;1,19;Francoargilosa
+572;umida;189;1750;26;Am;Amazonia;Ferralsols;64;5,5;5,3;0,9;Argila
+573;umida;200;1750;26;Am;Amazonia;Ferralsols;75,2;3,7;1,5;1,22;Argila
+574;umida;200;1750;26;Am;Amazonia;Cambisols;56;6,2;5,5;0,86;Argila
+575;umida;200;1750;26;Am;Amazonia;Ferralsols;41,825;4,975;2,475;1,0825;Argila
+576;umida;200;1750;26;Am;Amazonia;Cambisols;73,6;4,9;1,5;1;Argila
+577;umida;201;1750;26;Am;Amazonia;Ferralsols;41,6;3,65;3,5;1,585;Franca
+578;umida;203;1750;26;Am;Amazonia;Cambisols;120;4,4;1,5;1,13;Francoargilosa
+579;umida;199;1750;26;Am;Amazonia;Ferralsols;90,65;4,65;2,3;1,085;Francoargilosa
+580;umida;200;1750;26;Am;Amazonia;Ferralsols;16;3,9;5,1;1,18;Argila
+581;umida;200;1750;26;Am;Amazonia;Cambisols;46;3,7;0,4;1,15;Argila
+582;umida;200;1750;26;Am;Amazonia;Ferralsols;49,6;4,4;1,9;1,52;Muito argilosa
+583;umida;200;1750;26;Am;Amazonia;Ferralsols;3,2;4,5;5,6;0,95;Argiloarenosa
+584;umida;200;1750;26;Am;Amazonia;Cambisols;112;4,2;2,6;1,12;Argila
+585;umida;200;1750;26;Am;Amazonia;Ferralsols;78,4;3,8;2,2;1,33;Argila
+586;umida;200;1750;26;Am;Amazonia;Ferralsols;41,1;3,8;5,8;1,77;Muito argilosa
+587;umida;202;1750;26;Am;Amazonia;Ferralsols;76,8;3,7;3;1,28;Argila
+588;umida;200;1750;26;Am;Amazonia;Ferralsols;73,6;3,8;2,5;1,61;Argila
+589;umida;221;2000;25;Am;Amazonia;Acrisols;26;3,8;2;1,126666667;Argiloarenosa
+590;umida;168;2000;25;Am;Amazonia;Ferralsols;109;3,633333333;1;1,46;Muito argilosa
+591;umida;147;2000;25;Am;Amazonia;Ferralsols;6;4,066666667;2;1,97;Argila
+592;umida;221;2000;25;Am;Amazonia;Acrisols;13;3,933333333;2,333333333;1,363333333;Argila
+593;umida;221;2000;25;Am;Amazonia;Acrisols;3;4,6;3,666666667;1,173333333;Argiloarenosa
+594;umida;147;2000;25;Am;Amazonia;Ferralsols;106;5,533333333;3,333333333;1,506666667;Franco-argiloarenosa
+595;umida;144;2000;25;Am;Amazonia;Acrisols;90;5,233333333;2,333333333;0,986666667;Francoarenosa
+596;umida;144;2000;25;Am;Amazonia;Acrisols;109;5,866666667;5;0,766666667;Francoarenosa
+597;umida;168;2000;25;Am;Amazonia;Ferralsols;48;4,3;1;1,61;Muito argilosa
+598;umida;144;2000;25;Am;Amazonia;Acrisols;374;5,966666667;4;1,276666667;Francoarenosa
+599;umida;221;2000;25;Am;Amazonia;Acrisols;80;4,6;1,333333333;1,173333333;Argiloarenosa
+600;umida;147;2000;25;Am;Amazonia;Ferralsols;10;4,866666667;1,666666667;1,056666667;Franca
+601;umida;221;2000;25;Am;Amazonia;Acrisols;35;3,666666667;2;1,013333333;Argiloarenosa
+602;umida;221;2000;25;Am;Amazonia;Acrisols;131;6,066666667;13;1,196666667;Argiloarenosa
+603;umida;147;2000;25;Am;Amazonia;Ferralsols;16;3,9;2;1,583333333;Muito argilosa
+609;umida;38;2700;26;Am;Amazonia;Ferralsols;240;5;49,5;12,15;Franco-argiloarenosa
+610;umida;38;2700;27;Am;Amazonia;Ferralsols;252;4,3;7,75;12,16;Franco-argiloarenosa
+611;umida;38;2700;28;Am;Amazonia;Ferralsols;76;4,7;6,25;11,48;Franco-argiloarenosa
+612;umida;38;2700;29;Am;Amazonia;Ferralsols;220;4,6;4,5;11,51;Franco-argiloarenosa
+618;seca;20;2080;27,5;As;Amazonia;Gleysols;16;5,04;4,1;26,56612529;Franco-argiloarenosa
+620;umida;36;2290;27;Am;Amazonia;Ferralsols;246,4;4,52;4;15,25522042;Areia franca
+621;umida;34;2290;27;Am;Amazonia;Ferralsols;89,6;4,54;3,3;14,26914153;Areia franca
+622;umida;39;2290;27;Am;Amazonia;Ferralsols;140,8;4,35;2,1;10,96287703;Areia franca
+623;umida;42;2290;27;Am;Amazonia;Ferralsols;326,4;4,43;3,1;12,52900232;Muito argilosa
+624;seca;37;2290;27;As;Amazonia;Ferralsols;108,8;3,84;2,8;10,26682135;Francoarenosa
+625;umida;228;1794;26,5;Aw;Amazonia;Ferralsols;16;5,28;4,9;28,24825986;Argila
+626;umida;269;1794;26,5;Aw;Amazonia;Ferralsols;10,66666667;4,46;2,5;16,29930394;Argilossiltosa
+627;umida;280;1794;26,5;Aw;Amazonia;Ferralsols;3,2;5,17;2,5;18,9675174;Argilossiltosa
+628;umida;269;1794;26,5;Aw;Amazonia;Ferralsols;0;5,13;1,6;19,83758701;Muito argilosa
+629;umida;288;1794;26,5;Aw;Amazonia;Ferralsols;6,4;5,6;2,7;20,30162413;Argilossiltosa
+630;umida;255;1794;26,5;Aw;Amazonia;Ferralsols;3,2;4,08;2,4;18,15545244;Argilossiltosa
+631;umida;256;1794;26,5;Aw;Amazonia;Ferralsols;0;4,25;3,1;22,67981439;Argilossiltosa
+632;umida;290;1794;26,5;Aw;Amazonia;Ferralsols;9,6;4,52;4,7;23,95591647;Francoarenosa
+633;umida;228;1794;26,5;Aw;Amazonia;Ferralsols;3,2;4,36;3,1;17,74941995;Franca
+634;seca;30;2440;28;Af;Amazonia;Ferralsols;358,4;3,74;3,9;20,41763341;Francoarenosa
+635;seca;70;2440;28;Am;Amazonia;Ferralsols;188,8;3,79;4,8;17,05336427;Franco-argiloarenosa
+636;seca;36;2440;28;Af;Amazonia;Ferralsols;83,2;3,97;2,5;24,47795824;Francoarenosa
+637;seca;49;2440;28;Af;Amazonia;Ferralsols;220,8;4,1;2,1;10,49883991;Francoarenosa
+638;seca;47;2440;28;Af;Amazonia;Ferralsols;188,8;4,38;2,3;14,67517401;Franco-argiloarenosa
+639;seca;43;2440;28;Af;Amazonia;Ferralsols;284,8;3,97;7,4;14,32714617;Areia franca
+640;seca;53;2440;28;Af;Amazonia;Ferralsols;278,4;5,02;4;12,87703016;Francoarenosa
+641;seca;27;2440;28;Af;Amazonia;Ferralsols;172,8;3,85;3,4;12,6450116;Francoarenosa
+642;seca;37;2440;28;Af;Amazonia;Ferralsols;134,4;3,53;1,4;20,01160093;Francoargilosa
+643;seca;24;2440;28;Af;Amazonia;Ferralsols;204,8;3,82;1,4;23,20185615;Areia franca
+644;seca;43;2440;28;Af;Amazonia;Ferralsols;0;3,62;1,5;17,57540603;Franco-argiloarenosa
+645;seca;19;2440;28;Af;Amazonia;Ferralsols;230,4;4,08;2,9;15,48723898;Francoarenosa
+646;seca;40;2440;28;Af;Amazonia;Ferralsols;147,2;4,81;1,6;18,32946636;Francoarenosa
+647;seca;36;2440;28;Af;Amazonia;Ferralsols;188,8;4,3;1,7;16,06728538;Francoarenosa
+648;seca;23;2440;28;Af;Amazonia;Ferralsols;236,8;3,73;1,8;16,41531323;Francoarenosa
+649;seca;24;2440;28;Af;Amazonia;Ferralsols;416;4,26;1,7;25,98607889;Francoarenosa
+650;seca;28;2440;28;Af;Amazonia;Ferralsols;198,4;4,2;1,5;23,49187935;Franco-argiloarenosa
+651;seca;296;1520;28,5;Aw;Amazonia;Ferralsols;3,2;4,158;1,64;20,83526682;Francossiltosa
+652;seca;38;2186;30;As;Amazonia;Ferralsols;60,8;3,52;3,1;15,25522042;Argila
+653;seca;38;2186;30;As;Amazonia;Ferralsols;60,8;3,66;3,4;19,72157773;Francoarenosa
+654;umida;26;1826;27,5;As;Amazonia;Acrisols;195,2;4,422;22,78;17,92343387;Francoarenosa
+655;umida;21;1826;27,5;As;Amazonia;Acrisols;124,8;4,944;18,2;17,99303944;Francoarenosa
+656;umida;13;1826;27,5;As;Amazonia;Acrisols;73,6;4,91;3,5;13,45707657;Areia franca
+657;umida;14;1826;27,5;As;Amazonia;Acrisols;192;5,04;5;15,13921114;Franco-argiloarenosa
+658;umida;38;1826;27,5;As;Amazonia;Acrisols;108,8;5,29;5,1;24,88399072;Areia franca
+659;umida;56;1826;27,5;As;Amazonia;Acrisols;326,4;4,63;2,6;12,29698376;Areia franca
+660;umida;189;1993;26,5;Aw;Amazonia;Acrisols;9,6;3,7;3,5;14,55916473;Francoarenosa
+661;umida;175;1993;26,5;Aw;Amazonia;Acrisols;51,2;3,57;2,9;12,12296984;Francoarenosa
+662;umida;182;1993;26,5;Aw;Amazonia;Acrisols;3,2;3,62;4,7;14,44315545;Areia franca
+663;umida;154;1993;26,5;Aw;Amazonia;Acrisols;38,4;3,91;2,9;13,34106729;Areia franca
+664;umida;182;1993;26,5;Aw;Amazonia;Acrisols;6,4;3,56;3,1;18,44547564;Franca
+665;umida;169;1993;26,5;Aw;Amazonia;Acrisols;22,4;3,6;2,8;14,90719258;Franco-argiloarenosa
+604;umida;155;1800;24,5;Am;Amazonia;Acrisols;18,44333333;3,3;4;8,12;Franca
+605;umida;155;1800;24,5;Am;Amazonia;Acrisols;3,988333333;3,3;5,23;7,44;Franca
+606;umida;155;1800;24,5;Am;Amazonia;Acrisols;0,686666667;3,2;3,45;7,54;Franca
+607;umida;155;2000;22;Am;Amazonia;Acrisols;19,96666667;4,766666667;6,45;13,9;Argila
+608;umida;155;2000;22;Am;Amazonia;Acrisols;15,53333333;4,766666667;7,21;15;Argila
 338;umida;762;1400;20;Cfa;Cerrado;Ferralsols;21,33333333;4,815833333;2,125;21,10833333;Argila
 339;umida;762;1400;20;Cfa;Cerrado;Ferralsols;42;4,291666667;0,908333333;21,475;Francoargilosa
 340;umida;762;1400;20;Cfa;Cerrado;Ferralsols;13,33333333;4,116666667;0,983333333;20,49166667;Argila
@@ -287,360 +287,360 @@
 38;umida;1200;1422;20;Cfb;Cerrado;Ferralsols;1,966666667;5,218181818;4,090909091;26,81818182;Argila
 39;umida;1200;1422;20;Cfb;Cerrado;Ferralsols;0;4,236363636;1;29,63636364;Argila
 40;umida;1200;1422;20;Cfb;Cerrado;Ferralsols;57,15;3,763636364;3,545454545;33,81818182;Argila
-1;seca;584;1614;20;Cfa;Mata Atlantica;Ferralsols;354,6666667;4,86;1,94;18,48;Argila
-2;umida;600;1750;21;Cfa;Mata Atlantica;Ferralsols;54;6,16;1,773333333;27,211;Muito argilosa
-3;umida;585;1750;21;Cfa;Mata Atlantica;Ferralsols;17,6;4,9;2,002173913;20,91913043;Muito argilosa
-4;umida;566;1614;20;Cfa;Mata Atlantica;Ferralsols;264,1;5,5;2,249166667;22,59166667;Argila
-5;umida;467;1614;20;Cfa;Mata Atlantica;Ferralsols;14,1;5,4;5,75;17,81095238;Argila
-6;umida;566;1614;20;Cfa;Mata Atlantica;Ferralsols;46,2;5,2;3,338;18,67133333;Argila
-7;umida;566;1614;20;Cfa;Mata Atlantica;Ferralsols;315;5;5,043333333;17,60933333;Argila
-8;umida;583;1686;24,1;Cfa;Mata Atlantica;Ferralsols;10,66666667;5,345416667;17,48625;16,7625;Muito argilosa
-9;umida;583;1686;24,1;Cfa;Mata Atlantica;Ferralsols;54;4,968333333;16,41583333;14,7225;Muito argilosa
-10;umida;583;1686;24,1;Cfa;Mata Atlantica;Ferralsols;13,33333333;5,135;15,3;18,05041667;Muito argilosa
-11;umida;583;1686;24,1;Cfa;Mata Atlantica;Ferralsols;36;5,155;20,84;18,715;Muito argilosa
-12;umida;583;1686;24,1;Cfa;Mata Atlantica;Ferralsols;2;5,050833333;19,71875;16,01791667;Muito argilosa
-13;umida;583;1686;24,1;Cfa;Mata Atlantica;Ferralsols;92;5,206666667;21,76578283;19,0619697;Muito argilosa
-14;umida;583;1686;24,1;Cfa;Mata Atlantica;Ferralsols;8;5,41625;13,22916667;16,50916667;Muito argilosa
-15;umida;583;1686;24,1;Cfa;Mata Atlantica;Ferralsols;2;5,255416667;21,775;16,98541667;Muito argilosa
-16;umida;583;1686;24,1;Cfa;Mata Atlantica;Ferralsols;104;5,1;18,7;14,552;Muito argilosa
-17;umida;582;1614;20;Cfa;Mata Atlantica;Ferralsols;332;5,5;2,25;22,59;Argila
-18;umida;550;1614;20;Cfa;Mata Atlantica;Nitisols;34,66666667;5,583333333;18,61111111;13,72739018;Argila
-19;umida;550;1614;20;Cfa;Mata Atlantica;Nitisols;45,33333333;5,788888889;21,83333333;14,72868217;Argila
-20;umida;576;1622;20,7;Cfa;Mata Atlantica;Ferralsols;3,35;4,4;11,3;13,265;Muito argilosa
-21;umida;576;1622;20,7;Cfa;Mata Atlantica;Ferralsols;27,3;4,75;21,55;16,95;Muito argilosa
-22;umida;674;1622;20,7;Cfa;Mata Atlantica;Nitisols;5,8;5;16;24;Muito argilosa
-23;umida;674;1622;20,7;Cfa;Mata Atlantica;Nitisols;13;5,2;32;28;Muito argilosa
-24;umida;1200;1422;20;Cfb;Mata Atlantica;Ferralsols;0;4,9;14,5;20,34;Muito argilosa
-25;umida;1200;1422;20;Cfb;Mata Atlantica;Ferralsols;0;4,9;14,5;20,34;Muito argilosa
-26;seca;630;2100;20;Cfa;Mata Atlantica;Ferralsols;51,3;5,9;34,92;12,33;Muito argilosa
-27;seca;630;2100;20;Cfa;Mata Atlantica;Ferralsols;214,4;5,7;1,07;7,74;Muito argilosa
-28;seca;630;2100;20;Cfa;Mata Atlantica;Ferralsols;38,4;6,1;9,56;17,97;Muito argilosa
-29;seca;630;2100;20;Cfa;Mata Atlantica;Ferralsols;195,2;4,1;1,39;15,09;Muito argilosa
-30;umida;699;1250;20;Cfa;Mata Atlantica;Ferralsols;17;4,2;4,1;32,1;Muito argilosa
-31;umida;666;1250;20;Cfa;Mata Atlantica;Ferralsols;130,75;5,4;15,1;22,7;Muito argilosa
-32;umida;688;1250;20;Cfa;Mata Atlantica;Ferralsols;4,75;4,5;1,9;24;Muito argilosa
-33;umida;675;1250;20;Cfa;Mata Atlantica;Ferralsols;16,5;5,5;56;20,2;Muito argilosa
-34;umida;700;1250;20;Cfa;Mata Atlantica;Ferralsols;15,75;6,6;3,4;17,5;Muito argilosa
-35;umida;499;1400;20,5;Cfa;Mata Atlantica;Ferralsols;39;5,187916667;5,06375;15,52916667;Muito argilosa
-36;umida;499;1400;20,5;Cfa;Mata Atlantica;Ferralsols;30;5,346111111;5,011666667;14,34333333;Muito argilosa
-41;umida;330;1200;28;Cfa;Mata Atlantica;Nitisols;48,33333333;5,425;6,645;9,563023256;Franco-argiloarenosa
-42;umida;255;1200;28;Cfa;Mata Atlantica;Nitisols;136,4666667;5,476666667;31,59044776;9,10375298;Argila
-43;umida;255;1200;28;Cfa;Mata Atlantica;Nitisols;170;5,96;20,05701493;10,30806509;Argila
-44;umida;292;1200;28;Cfa;Mata Atlantica;Nitisols;68,33333333;5,55;10,78;7,4400416;Francoargilosa
-45;umida;248;1200;28;Cfa;Mata Atlantica;Nitisols;150;4,765;32,94402985;5,9095536;Francoargilosa
-46;umida;290;1200;28;Cfa;Mata Atlantica;Ferralsols;128,75;5,186666667;15,93452736;11,51345739;Argila
-47;umida;290;1200;28;Cfa;Mata Atlantica;Ferralsols;400;5,853333333;30,48159204;12,14756745;Argila
-48;umida;290;1200;28;Cfa;Mata Atlantica;Ferralsols;165;5,353333333;10,54587065;14,18444864;Argila
-49;umida;275;1200;28;Cfa;Mata Atlantica;Nitisols;133,75;5,616666667;16,39960199;11,28447023;Argila
-50;umida;560;1200;28;Cfa;Mata Atlantica;Nitisols;93,75;5,5725;14,84160448;11,29401451;Argila
-51;umida;330;1200;28;Cfa;Mata Atlantica;Nitisols;5;5,8;4,63;19,65116279;Argila
-52;umida;330;1200;28;Cfa;Mata Atlantica;Nitisols;45;5,6;2,28;17,44186047;Francoargilosa
-53;umida;330;1200;28;Cfa;Mata Atlantica;Nitisols;55;5,7;7,05;21,22093023;Francoargilosa
-54;umida;330;1200;28;Cfa;Mata Atlantica;Nitisols;235;5,6;11,28;18,13953488;Argila
-55;umida;330;1200;28;Cfa;Mata Atlantica;Nitisols;55;5;1,51;22,03488372;Francoargilosa
-56;umida;280;1200;28;Cfa;Mata Atlantica;Nitisols;605;5,3;7,88;15,23255814;Argila
-57;umida;280;1200;28;Cfa;Mata Atlantica;Nitisols;65;5,8;13,04;20,46511628;Argila
-58;umida;280;1200;28;Cfa;Mata Atlantica;Nitisols;0;5,7;19,54;16,68604651;Muito argilosa
-59;umida;280;1200;28;Cfa;Mata Atlantica;Nitisols;305;5,8;56,45;15,23255814;Argila
-60;umida;280;1200;28;Cfa;Mata Atlantica;Nitisols;105;5,3;3,05;22,84883721;Argila
-61;umida;255;1200;28;Cfa;Mata Atlantica;Nitisols;190;5,3;9,56;18,89534884;Franca
-62;umida;255;1200;28;Cfa;Mata Atlantica;Nitisols;295;5;35,74;16,68604651;Francoargilosa
-63;umida;255;1200;28;Cfa;Mata Atlantica;Nitisols;10;5,6;5,43;17,44186047;Francoargilosa
-64;umida;255;1200;28;Cfa;Mata Atlantica;Nitisols;275;5,3;3,05;25,34883721;Franco-argilossiltosa
-65;umida;290;1200;28;Cfa;Mata Atlantica;Ferralsols;70;5,3;27,74;22,84883721;Argila
-66;umida;290;1200;28;Cfa;Mata Atlantica;Ferralsols;25;5,4;3,05;25,34883721;Argila
-67;umida;290;1200;28;Cfa;Mata Atlantica;Ferralsols;15;6,1;1,51;24,47674419;Francoargilosa
-68;umida;275;1200;28;Cfa;Mata Atlantica;Nitisols;80;5,8;34,55;18,89534884;Argila
-69;umida;275;1200;28;Cfa;Mata Atlantica;Nitisols;30;5,5;26,67;20,46511628;Muito argilosa
-70;umida;275;1200;28;Cfa;Mata Atlantica;Nitisols;125;4,9;4,63;17,44186047;Argila
-71;umida;275;1200;28;Cfa;Mata Atlantica;Nitisols;32,5;5;1,51;22,03488372;Muito argilosa
-72;umida;560;1200;28;Cfa;Mata Atlantica;Nitisols;0;4,9;16,68;22,84883721;Muito argilosa
-73;umida;560;1200;28;Cfa;Mata Atlantica;Nitisols;50;5,1;9,56;22,03488372;Muito argilosa
-74;umida;560;1200;28;Cfa;Mata Atlantica;Nitisols;50;5,4;17,62;20,46511628;Muito argilosa
-75;umida;560;1200;28;Cfa;Mata Atlantica;Nitisols;30;5,3;10,41;23,6627907;Muito argilosa
-76;umida;560;1200;28;Cfa;Mata Atlantica;Nitisols;20;4,5;13,93;20,46511628;Muito argilosa
-77;umida;560;1200;28;Cfa;Mata Atlantica;Nitisols;120;4,6;26,67;18,13953488;Argila
-78;umida;560;1200;28;Cfa;Mata Atlantica;Nitisols;55;5,3;0,75;12,5;Argila
-79;umida;560;1200;28;Cfa;Mata Atlantica;Nitisols;265;5,1;24,56;18,89534884;Argila
-80;umida;560;1200;28;Cfa;Mata Atlantica;Nitisols;285;4,9;0,75;27,09302326;Argila
-81;umida;389;1500;20;Cfa;Mata Atlantica;Ferralsols;0;5,59;13,12;10,07;Areia
-82;umida;376;1500;20;Cfa;Mata Atlantica;Ferralsols;33,6;6,044;10,26;11,15;Areia
-83;umida;380;1500;20;Cfa;Mata Atlantica;Ferralsols;9,165;5,857857143;17,79285714;10,35;Francoarenosa
-84;umida;412;1500;20;Cfa;Mata Atlantica;Ferralsols;14,4;4,447;8,91;7,99;Francoarenosa
-85;umida;402;1500;20;Cfa;Mata Atlantica;Ferralsols;3,2;5,652222222;12,45555556;8,811111111;Francoarenosa
-86;umida;398;1500;20;Cfa;Mata Atlantica;Ferralsols;21,165;5,433333333;9,153333333;6,74;Areia
-87;umida;366;1500;20;Cfa;Mata Atlantica;Ferralsols;10,4;5,537;3,83;17,56;Areia
-88;umida;286;1500;20;Aw;Mata Atlantica;Ferralsols;474;3,978333333;4,448333333;11,89666667;Areia
-89;umida;286;1500;20;Aw;Mata Atlantica;Ferralsols;61;4,366666667;7,83;12,87166667;Areia
-90;umida;286;1500;20;Aw;Mata Atlantica;Ferralsols;19;4,348333333;10,68;12,32166667;Areia
-91;umida;286;1500;20;Aw;Mata Atlantica;Ferralsols;86;4,565;7,536666667;12,08333333;Areia
-92;umida;945;1550;16;Cfb;Mata Atlantica;Cambisols;0,1;3,85;3,55;34,89;Francoarenosa
-93;umida;945;1550;16;Cfb;Mata Atlantica;Ferralsols;0,066666667;3,85;3,55;34,89;Francoarenosa
-94;umida;938;1450;12,5;Cfb;Mata Atlantica;Cambisols;214,4277778;4,4;2;3,6;Franco-argiloarenosa
-95;umida;938;1450;13,5;Cfb;Mata Atlantica;Cambisols;114,8166667;5;7,5;3,4;Franco-argiloarenosa
-96;umida;938;1450;14,5;Cfb;Mata Atlantica;Cambisols;138,5111111;4,7;5,3;3,1;Franco-argiloarenosa
-97;umida;938;1450;15,5;Cfb;Mata Atlantica;Cambisols;42,44444444;3,9;2,7;6,3;Argila
-98;umida;938;1450;12,5;Cfb;Mata Atlantica;Cambisols;24,75;3,9;4,6;4,7;Argila
-99;umida;938;1450;12,5;Cfb;Mata Atlantica;Cambisols;51,11851852;4,2;2,7;4;Argila
-100;umida;938;1450;12,5;Cfb;Mata Atlantica;Cambisols;2,5;3,7;3,4;5,2;Argiloarenosa
-101;umida;938;1450;12,5;Cfb;Mata Atlantica;Cambisols;11,3;4,2;3,3;4,6;Francoargilosa
-102;umida;938;1450;12,5;Cfb;Mata Atlantica;Cambisols;121,3;4,8;5,3;3,7;Franco-argiloarenosa
-103;umida;938;1450;12,5;Cfb;Mata Atlantica;Cambisols;48;3,8;2,7;3,1;Argila
-104;umida;938;1450;12,5;Cfb;Mata Atlantica;Cambisols;120;4,5;3,4;3,6;Franco-argiloarenosa
-105;umida;938;1450;12,5;Cfb;Mata Atlantica;Cambisols;31,3;3,8;2,5;3,1;Argila
-106;umida;938;1450;12,5;Cfb;Mata Atlantica;Ferralsols;18,9;4,2;2,1;2,5;Franco-argiloarenosa
-107;umida;938;1450;12,5;Cfb;Mata Atlantica;Cambisols;16,3;4,4;8;3,9;Franco-argiloarenosa
-108;umida;938;1450;12,5;Cfb;Mata Atlantica;Cambisols;48,8;4,7;17,6;4,2;Franco-argiloarenosa
-109;umida;938;1450;12,5;Cfb;Mata Atlantica;Ferralsols;15;4,5;2,04;31,5;Argiloarenosa
-110;umida;938;1450;12,5;Cfb;Mata Atlantica;Cambisols;98;4,4;1,66;31,2;Argiloarenosa
-111;umida;938;1450;12,5;Cfb;Mata Atlantica;Cambisols;311;4;3,36;33,8;Argiloarenosa
-112;umida;938;1450;12,5;Cfb;Mata Atlantica;Cambisols;305,5;4,2;1,48;30,7;Argiloarenosa
-113;umida;938;1450;12,5;Cfb;Mata Atlantica;Cambisols;72,5;4,3;1,6;29,2;Franco-argiloarenosa
-114;umida;40;2500;20;Cfa;Mata Atlantica;Cambisols;242,4;5,152;3,566666667;37,1;Francoargilosa
-115;umida;70;2500;20;Cfa;Mata Atlantica;Cambisols;140;4,774;2,566666667;41,16666667;Muito argilosa
-116;umida;30;2500;20;Cfa;Mata Atlantica;Cambisols;177,6;4,218;7,233333333;47,16666667;Argila
-117;umida;40;2500;20;Cfa;Mata Atlantica;Cambisols;150,4;4,076;2,466666667;42,56666667;Francoargilosa
-118;umida;90;2500;20;Cfa;Mata Atlantica;Cambisols;135,2;4,172;3,333333333;49,8;Argila
-119;umida;150;2500;20;Cfa;Mata Atlantica;Cambisols;149,6;4,856;2,466666667;35,3;Argila
-120;umida;60;2500;20;Cfa;Mata Atlantica;Cambisols;62,4;4,076;3,32;45,56666667;Francoargilosa
-121;umida;120;2500;20;Cfa;Mata Atlantica;Cambisols;85,6;4,218;2,7;41,16666667;Muito argilosa
-122;umida;120;2500;20;Cfa;Mata Atlantica;Cambisols;125,6;4,268;9,233333333;63,86666667;Argila
-123;umida;260;2500;20;Cfa;Mata Atlantica;Cambisols;52,8;4,182;7,633333333;38,93333333;Argila
-124;umida;90;2500;20;Cfa;Mata Atlantica;Cambisols;120,8;4,11;2,866666667;33,5;Argila
-125;umida;1036;1550;20;Cfb;Mata Atlantica;Cambisols;35,48888889;4,1;2,6;18,9;Argila
-126;umida;1183;1550;20;Cfb;Mata Atlantica;Regosols;8,422222222;3,83;3,6;19,6;Argila
-127;umida;1334;1550;20;Cfb;Mata Atlantica;Histosols;17,94444444;3,65;5,1;39,7;Argilossiltosa
-128;umida;1451;1550;20;Cfb;Mata Atlantica;Histosols;42,37777778;3,61;3,5;44,5;Francoargilosa
-129;umida;1477;1550;20;Cfb;Mata Atlantica;Histosols;5,577777778;3,73;3,6;33,5;Franco-argiloarenosa
-130;umida;1621;1550;20;Cfb;Mata Atlantica;Histosols;1,5;3,09;8,3;45,7;Franco-argiloarenosa
-131;umida;1771;1550;20;Cfb;Mata Atlantica;Histosols;0,866666667;3,11;7,6;44,5;Franca
-132;umida;1844;1550;20;Cfb;Mata Atlantica;Histosols;29,63333333;3,03;6,1;91,6;Franco-argilossiltosa
-133;umida;880;1530;16,5;Cfb;Mata Atlantica;Cambisols;1,7;5,333333333;1,288888889;14,95555556;Francoarenosa
-134;umida;880;1530;16,5;Cfb;Mata Atlantica;Cambisols;3,5;3,811111111;1,188888889;22,36666667;Francoarenosa
-135;umida;880;1530;16,5;Cfb;Mata Atlantica;Cambisols;5,3;3,616666667;1,4;26,05;Francoargilosa
-136;umida;880;1530;16,5;Cfb;Mata Atlantica;Cambisols;10,7;5,458888889;24,33333333;35,27777778;Francoarenosa
-137;umida;880;1530;16,5;Cfb;Mata Atlantica;Cambisols;39,1;4,373333333;5,066666667;29,15555556;Francoarenosa
-138;umida;880;1530;16,5;Cfb;Mata Atlantica;Cambisols;14,2;4,427777778;4,388888889;33,72222222;Francoarenosa
-139;umida;880;1530;16,5;Cfb;Mata Atlantica;Cambisols;3,6;3,908888889;3,666666667;41,33333333;Francoarenosa
-140;umida;880;1530;16,5;Cfb;Mata Atlantica;Cambisols;0;3,806666667;3,377777778;35,65555556;Francoarenosa
-141;umida;882;1755;16,5;Cfb;Mata Atlantica;Acrisols;5,33;6,104444444;35,98888889;13,78888889;Francoargilosa
-142;umida;882;1755;16,5;Cfb;Mata Atlantica;Acrisols;107;5,874444444;12,68888889;16,15555556;Francoargilosa
-143;umida;882;1755;16,5;Cfb;Mata Atlantica;Acrisols;1,78;4,931111111;36;12,42222222;Argila
-144;umida;882;1755;16,5;Cfb;Mata Atlantica;Acrisols;19,56;4,472222222;13,32222222;20,92222222;Francoargilosa
-145;umida;825;1700;18;Cfb;Mata Atlantica;Ferralsols;3,6;3,688;1,36;23,14;Argilossiltosa
-146;umida;825;1700;18;Cfb;Mata Atlantica;Ferralsols;26,4;4,298;2,7;23,1;Argila
-147;umida;825;1700;18;Cfb;Mata Atlantica;Histosols;2,4;3,792;2,8;21,74;Argila
-148;umida;825;1700;18;Cfb;Mata Atlantica;Ferralsols;1,2;3,79;2,96;18,42;Muito argilosa
-149;umida;825;1700;18;Cfb;Mata Atlantica;Ferralsols;0;3,786;2,8;19;Muito argilosa
-150;umida;825;1700;18;Cfb;Mata Atlantica;Ferralsols;25,2;3,908;1,88;18,4;Muito argilosa
-151;umida;825;1700;18;Cfb;Mata Atlantica;Ferralsols;16,8;3,78;2,18;17,02;Muito argilosa
-152;umida;825;1700;18;Cfb;Mata Atlantica;Ferralsols;16,8;3,784;1,7;19,4;Argila
-153;umida;880;1530;17,5;Cfb;Mata Atlantica;Ferralsols;0;3,418;2,56;20,82;Argilossiltosa
-154;umida;880;1530;17,5;Cfb;Mata Atlantica;Ferralsols;0;3,794;1,52;18,32;Argila
-155;umida;880;1530;17,5;Cfb;Mata Atlantica;Ferralsols;13,2;3,604;2,34;19,2;Argilossiltosa
-156;umida;880;1530;17,5;Cfb;Mata Atlantica;Ferralsols;9,6;3,468;3,04;17,52;Argila
-157;umida;880;1530;17,5;Cfb;Mata Atlantica;Ferralsols;1,2;3,602;2,52;19,42;Francoargilosa
-158;umida;880;1530;17,5;Cfb;Mata Atlantica;Ferralsols;3,6;3,776;2,26;15,16;Argilossiltosa
-159;umida;880;1530;17,5;Cfb;Mata Atlantica;Ferralsols;16,8;4,12;3,32;18,8;Argila
-160;umida;880;1530;17,5;Cfb;Mata Atlantica;Ferralsols;3,6;3,808;2,88;18,4;Argila
-161;umida;880;1530;17,5;Cfb;Mata Atlantica;Ferralsols;14,4;4,45;1,88;24,98;Argila
-162;umida;809;1500;17,5;Cfb;Mata Atlantica;Regosols;0;3,74;4,86;24,06;Franco-argiloarenosa
-163;umida;809;1500;17,5;Cfb;Mata Atlantica;Ferralsols;57,6;3,576;2,88;25,52;Argila
-164;umida;809;1500;17,5;Cfb;Mata Atlantica;Ferralsols;6;3,44;1,9;28,02;Muito argilosa
-165;umida;809;1500;17,5;Cfb;Mata Atlantica;Ferralsols;2,4;3,462;3,2;27,76;Argila
-166;umida;809;1500;17,5;Cfb;Mata Atlantica;Ferralsols;1,2;3,468;1,32;23,52;Muito argilosa
-167;umida;809;1500;17,5;Cfb;Mata Atlantica;Ferralsols;3,6;3,512;2,52;23,22;Argila
-168;umida;809;1500;17,5;Cfb;Mata Atlantica;Cambisols;34,8;3,572;3,04;27,7;Argila
-169;umida;809;1500;17,5;Cfb;Mata Atlantica;Ferralsols;4,8;3,518;2,2;23,86;Argila
-170;umida;809;1500;17,5;Cfb;Mata Atlantica;Ferralsols;24;3,478;1,74;27,26;Muito argilosa
-171;umida;700;1600;19;Cfb;Mata Atlantica;Ferralsols;62,4;3,842;1,78;19,24;Argila
-172;umida;700;1600;19;Cfb;Mata Atlantica;Ferralsols;21,6;3,856;1,8;18,4;Muito argilosa
-173;umida;700;1600;19;Cfb;Mata Atlantica;Ferralsols;92,4;3,858;1,62;22,28;Argila
-174;umida;700;1600;19;Cfb;Mata Atlantica;Ferralsols;126;3,602;1,82;19,4;Argila
-175;umida;700;1600;19;Cfb;Mata Atlantica;Ferralsols;25,2;3,724;1,62;19,22;Argila
-176;umida;700;1600;19;Cfb;Mata Atlantica;Ferralsols;145,2;3,866;1,76;16,24;Muito argilosa
-177;umida;700;1600;19;Cfb;Mata Atlantica;Ferralsols;93,6;3,96;1,74;23,42;Argila
-178;umida;700;1600;19;Cfb;Mata Atlantica;Ferralsols;32,4;3,974;0,66;21,64;Argila
-179;umida;700;1600;19;Cfb;Mata Atlantica;Ferralsols;38,4;3,982;1,48;22,24;Muito argilosa
-180;umida;1000;1850;18,5;Cfb;Mata Atlantica;Ferralsols;4,8;3,6;4,1;50,7;Muito argilosa
-181;umida;1000;1850;18,5;Cfb;Mata Atlantica;Ferralsols;11,2;3,6;4,1;50,7;Muito argilosa
-182;umida;1000;1850;18,5;Cfb;Mata Atlantica;Ferralsols;25,6;3,6;4,1;50,7;Muito argilosa
-183;umida;779;1473;17;Cfb;Mata Atlantica;Ferralsols;138,6666667;5,02;7,32;23,81;Muito argilosa
-184;umida;857;1473;17;Cfb;Mata Atlantica;Ferralsols;120,8888889;4,93;5,02;28,82;Muito argilosa
-185;umida;787;1473;17;Cfb;Mata Atlantica;Ferralsols;83,55555556;4,18;2,22;22,99;Argila
-186;umida;795;1473;17;Cfb;Mata Atlantica;Ferralsols;0;4,07;2,72;31,53;Muito argilosa
-187;umida;810;1473;17;Cfb;Mata Atlantica;Ferralsols;17,91111111;4,171;1,485;29,5;Muito argilosa
-188;umida;908;1950;18;Cfb;Mata Atlantica;Ferralsols;56,88666667;5;4,5;;Muito argilosa
-189;umida;908;1950;18;Cfb;Mata Atlantica;Ferralsols;69,31666667;5;9;;Muito argilosa
-190;umida;908;1950;18;Cfb;Mata Atlantica;Ferralsols;143,9933333;5,1;19,5;;Muito argilosa
-191;umida;908;1950;18;Cfb;Mata Atlantica;Ferralsols;32,88666667;5,1;22,7;;Muito argilosa
-192;umida;908;1950;18;Cfb;Mata Atlantica;Ferralsols;123,5466667;4,9;21,5;;Muito argilosa
-193;umida;908;1950;18;Cfb;Mata Atlantica;Ferralsols;33,79333333;5,2;45,3;;Muito argilosa
-194;umida;15;2100;19;Cfa;Mata Atlantica;Gleysols;117,3333333;4,255555556;15,93333333;16,73126615;Francoarenosa
-195;umida;15;2100;19;Cfa;Mata Atlantica;Gleysols;159,1111111;4,5;10,77777778;14,34108527;Franca
-196;umida;15;2100;19;Cfa;Mata Atlantica;Gleysols;119,1111111;4,622222222;9,6;14,14728682;Francoargilosa
-197;umida;15;2100;19;Cfa;Mata Atlantica;Gleysols;79,11111111;3,977777778;26,84444444;14,01808786;Franca
-198;umida;15;2100;19;Cfa;Mata Atlantica;Gleysols;29,33333333;4,388888889;33,72222222;12,08010336;Franco-argiloarenosa
-199;umida;36;1750;19,5;Cfa;Mata Atlantica;Acrisols;205,3333333;3,233333333;6,755555556;20,73643411;Argila
-200;umida;36;1750;19,5;Cfa;Mata Atlantica;Acrisols;158,2222222;3,677777778;5,188888889;12,98449612;Franco-argiloarenosa
-201;umida;36;1750;19,5;Cfa;Mata Atlantica;Acrisols;150,2222222;4,077777778;5,077777778;15,18087855;Argiloarenosa
-202;umida;36;1750;19,5;Cfa;Mata Atlantica;Acrisols;56,88888889;6,077777778;113;13,11369509;Franca
-203;umida;36;1750;19,5;Cfa;Mata Atlantica;Acrisols;50,66666667;4,266666667;19,62222222;14,40568475;Argiloarenosa
-204;umida;70;1650;18,5;Cfa;Mata Atlantica;Cambisols;24;4,622222222;6,5;15,05167959;Franco-argiloarenosa
-205;umida;70;1650;18,5;Cfa;Mata Atlantica;Cambisols;169,7777778;3,688888889;6,866666667;12,85529716;Francoarenosa
-206;umida;70;1650;18,5;Cfa;Mata Atlantica;Cambisols;40;4,666666667;45,52222222;24,80620155;Areia franca
-207;umida;70;1650;18,5;Cfa;Mata Atlantica;Cambisols;31,11111111;5,166666667;78,61111111;10,0129199;Franco-argiloarenosa
-208;umida;70;1650;18,5;Cfa;Mata Atlantica;Cambisols;104,8888889;4,155555556;37,32222222;8,527131783;Francoarenosa
-209;umida;149;1450;17,5;Cfa;Mata Atlantica;Acrisols;10,65;3,4;6,777777778;21,64082687;Francoargilosa
-210;umida;149;1450;17,5;Cfa;Mata Atlantica;Acrisols;121,8;4,277777778;6,511111111;15,50387597;Francoarenosa
-211;umida;149;1450;17,5;Cfa;Mata Atlantica;Acrisols;19,55;3,833333333;4,466666667;26,42118863;Francoarenosa
-212;umida;149;1450;17,5;Cfa;Mata Atlantica;Acrisols;35,55;4,777777778;84,48888889;29,90956072;Franco-argiloarenosa
-213;umida;149;1450;17,5;Cfa;Mata Atlantica;Acrisols;20,45;5,277777778;15,26666667;15,24547804;Francoarenosa
-214;umida;293;1580;17,5;Cfa;Mata Atlantica;Acrisols;4,45;3,166666667;8,288888889;24,41860465;Franco-argiloarenosa
-215;umida;293;1580;17,5;Cfa;Mata Atlantica;Acrisols;51,55;3,344444444;4,733333333;26,9379845;Argila
-216;umida;293;1580;17,5;Cfa;Mata Atlantica;Acrisols;17,8;3,977777778;5,388888889;36,88630491;Franco-argiloarenosa
-217;umida;293;1580;17,5;Cfa;Mata Atlantica;Acrisols;36,45;4,644444444;22,84444444;17,44186047;Franco-argiloarenosa
-218;umida;293;1580;17,5;Cfa;Mata Atlantica;Acrisols;33,8;4,977777778;41,72222222;12,91989664;Francoarenosa
-219;umida;714;2200;18,5;Cfa;Mata Atlantica;Ferralsols;7,111111111;3,877777778;4,955555556;27,90697674;Argila
-220;umida;709;2200;18,5;Cfa;Mata Atlantica;Ferralsols;5,333333333;4,366666667;4,8;23,70801034;Argila
-221;umida;723;2200;18,5;Cfa;Mata Atlantica;Ferralsols;16;3,944444444;4,344444444;29,78036176;Argila
-222;umida;714;2200;18,5;Cfa;Mata Atlantica;Ferralsols;15,11111111;4,6;8,866666667;22,15762274;Argila
-223;umida;746;2200;18,5;Cfa;Mata Atlantica;Ferralsols;8;4,777777778;15,93333333;22,48062016;Argila
-224;umida;648;2050;19,5;Cfa;Mata Atlantica;Ferralsols;6,222222222;3,722222222;5,766666667;30,16795866;Argila
-225;umida;659;2050;19,5;Cfa;Mata Atlantica;Ferralsols;8;3,977777778;5,1;23,4496124;Francoargilosa
-226;umida;660;2050;19,5;Cfa;Mata Atlantica;Ferralsols;72;4,588888889;3,5;28,03617571;Francoargilosa
-227;umida;641;2050;19,5;Cfa;Mata Atlantica;Ferralsols;31,11111111;4,977777778;8,944444444;21,05943152;Francoargilosa
-228;umida;642;2050;19,5;Cfa;Mata Atlantica;Ferralsols;17,77777778;5,577777778;17,11111111;21,25322997;Francoargilosa
-229;umida;623;2039;18;Cfa;Mata Atlantica;Ferralsols;3,555555556;3,444444444;5;27,97157623;Argila
-230;umida;653;2039;18;Cfa;Mata Atlantica;Ferralsols;4,444444444;4,1;5,488888889;24,03100775;Argila
-231;umida;642;2039;18;Cfa;Mata Atlantica;Ferralsols;16,88888889;4,777777778;6,233333333;27,00258398;Francoargilosa
-232;umida;593;2039;18;Cfa;Mata Atlantica;Ferralsols;10,66666667;4,377777778;18,08888889;26,29198966;Francoargilosa
-233;umida;679;2039;18;Cfa;Mata Atlantica;Ferralsols;3,555555556;4,722222222;11,71111111;26,87338501;Argila
-234;umida;1016;1740;17;Cfa;Mata Atlantica;Nitisols;11,55555556;4,504938272;9,019753086;25,10766581;Argila
-235;umida;989;1740;17;Cfa;Mata Atlantica;Nitisols;11,55555556;4,56351166;9,455281207;25,29189396;Argila
-236;umida;1004;1740;17;Cfa;Mata Atlantica;Nitisols;7,111111111;4,233333333;2,566666667;28,35917313;Argila
-237;umida;947;1740;17;Cfa;Mata Atlantica;Nitisols;34,66666667;4,722222222;7,777777778;24,74160207;Muito argilosa
-238;umida;923;1740;17;Cfa;Mata Atlantica;Nitisols;94,22222222;4,888888889;5,855555556;23,4496124;Argila
-239;umida;895;1700;17;Cfa;Mata Atlantica;Nitisols;7,111111111;4,4;3,866666667;34,56072351;Argila
-240;umida;852;1700;17;Cfa;Mata Atlantica;Nitisols;8,888888889;4,166666667;4,633333333;26,03359173;Argila
-241;umida;858;1700;17;Cfa;Mata Atlantica;Nitisols;19,55555556;4,411111111;3,344444444;30,10335917;Argila
-242;umida;873;1700;17;Cfa;Mata Atlantica;Nitisols;314,6666667;4,711111111;5,122222222;24,74160207;Muito argilosa
-243;umida;883;1700;17;Cfa;Mata Atlantica;Nitisols;10,66666667;5,055555556;4,322222222;23,70801034;Muito argilosa
-244;umida;919;1700;17;Cfa;Mata Atlantica;Cambisols;4,444444444;3,122222222;5,488888889;37,14470284;Franco-argiloarenosa
-245;umida;855;1700;17;Cfa;Mata Atlantica;Cambisols;1,777777778;3,377777778;4,077777778;27,3255814;Franco-argiloarenosa
-246;umida;900;1700;17;Cfa;Mata Atlantica;Cambisols;7,111111111;3,822222222;4,866666667;32,94573643;Franco-argiloarenosa
-247;umida;902;1700;17;Cfa;Mata Atlantica;Cambisols;56;4,722222222;13,23333333;32,36434109;Franco-argiloarenosa
-248;umida;879;1700;17;Cfa;Mata Atlantica;Cambisols;105,7777778;4,966666667;7,3;31,07235142;Franca
-249;umida;670;2039;18;Cfa;Mata Atlantica;Ferralsols;0;4,8;8,5;12,8;Muito argilosa
-250;umida;670;2039;18;Cfa;Mata Atlantica;Ferralsols;175,4;5,2;4;20,05;Muito argilosa
-251;umida;670;2039;18;Cfa;Mata Atlantica;Ferralsols;578,1;4,9;17,5;23,005;Muito argilosa
-252;umida;670;2039;18;Cfa;Mata Atlantica;Ferralsols;660,3;5,3;66;21,5;Argila
-253;umida;670;2039;18;Cfa;Mata Atlantica;Ferralsols;73,2;5,5;5,5;21;Muito argilosa
-254;umida;670;2039;18;Cfa;Mata Atlantica;Ferralsols;72,8;5;4,5;25,5;Muito argilosa
-255;umida;670;2039;18;Cfa;Mata Atlantica;Ferralsols;116;4,6;3,5;26,025;Argila
-256;umida;800;1750;16,5;Cfb;Mata Atlantica;Nitisols;6,4;4,316666667;3,516666667;3,042635659;Argilossiltosa
-257;umida;800;1750;16,5;Cfb;Mata Atlantica;Nitisols;116,8;4,983333333;4,366666667;2,403100775;Argilossiltosa
-258;umida;800;1750;16,5;Cfb;Mata Atlantica;Nitisols;33,6;4,283333333;6,433333333;2,403100775;Argilossiltosa
-259;umida;883;1800;17,5;Cfb;Mata Atlantica;Nitisols;9,6;4,233333333;3,5;3,236434109;Franco-argilossiltosa
-260;umida;883;1800;17,5;Cfb;Mata Atlantica;Nitisols;41,6;5,633333333;21,6;2,189922481;Argila
-261;umida;880;1950;18;Cfb;Mata Atlantica;Nitisols;9,6;5,233333333;5,383333333;2,994186047;Argilossiltosa
-262;umida;880;1950;18;Cfb;Mata Atlantica;Nitisols;1,6;4,1;3,4;2,906976744;Muito argilosa
-263;umida;880;1950;18;Cfb;Mata Atlantica;Nitisols;40;4,383333333;6,116666667;2,238372093;Muito argilosa
-264;umida;880;1950;18;Cfb;Mata Atlantica;Nitisols;51,2;4,3;6,4;2,984496124;Argila
-265;umida;797;1950;18,5;Cfb;Mata Atlantica;Ferralsols;0;5,466666667;4,05;2,102713178;Argilossiltosa
-266;umida;797;1950;18,5;Cfb;Mata Atlantica;Ferralsols;25,6;4,683333333;4,25;2,054263566;Muito argilosa
-267;umida;797;1950;18,5;Cfb;Mata Atlantica;Ferralsols;0;4,316666667;6,766666667;2,228682171;Muito argilosa
-268;umida;850;2000;18,5;Cfb;Mata Atlantica;Leptosols;22,4;4,066666667;7,366666667;2,26744186;Muito argilosa
-269;umida;850;2000;18,5;Cfb;Mata Atlantica;Leptosols;0;4,533333333;9,483333333;2,664728682;Argila
-270;umida;850;2000;18,5;Cfb;Mata Atlantica;Leptosols;9,6;4,783333333;8,383333333;2,509689922;Argila
-271;umida;900;1950;20,5;Cfb;Mata Atlantica;Leptosols;0;3,6;8,666666667;2,53875969;Muito argilosa
-272;umida;900;1950;20,5;Cfb;Mata Atlantica;Leptosols;6,4;4,466666667;15,71666667;2,490310078;Argila
-273;umida;900;1950;20,5;Cfb;Mata Atlantica;Leptosols;3,2;4,366666667;21,63333333;2,403100775;Argila
-274;umida;780;2250;19,5;Cfa;Mata Atlantica;Ferralsols;6,4;4,883333333;6,083333333;1,879844961;Francossiltosa
-275;umida;780;2250;19,5;Cfa;Mata Atlantica;Ferralsols;6,4;5,566666667;13,28333333;1,511627907;Francoargilosa
-276;umida;780;2250;19,5;Cfa;Mata Atlantica;Ferralsols;9,6;5,3;7,6;1,569767442;Francoargilosa
-277;umida;520;2100;19,5;Cfa;Mata Atlantica;Nitisols;3,2;4,216666667;2,95;2,189922481;Muito argilosa
-278;umida;520;2100;19,5;Cfa;Mata Atlantica;Nitisols;0;5,7;8,933333333;2,364341085;Muito argilosa
-279;umida;520;2100;19,5;Cfa;Mata Atlantica;Nitisols;54,4;4,183333333;13,96666667;1,724806202;Muito argilosa
-280;umida;578;2000;21,5;Cfa;Mata Atlantica;Cambisols;0;5,383333333;4,533333333;2,131782946;Franco-argilossiltosa
-281;umida;578;2000;21,5;Cfa;Mata Atlantica;Cambisols;0;4,6;5,583333333;1,976744186;Franco-argilossiltosa
-282;umida;578;2000;21,5;Cfa;Mata Atlantica;Cambisols;3,2;4,616666667;9,683333333;2,781007752;Argilossiltosa
-283;umida;547;1950;21,5;Cfa;Mata Atlantica;Ferralsols;3,2;4,65;7,5;2,325581395;Francoargilosa
-284;umida;547;1950;21,5;Cfa;Mata Atlantica;Ferralsols;0;5,816666667;42,35;2,296511628;Argila
-285;umida;547;1950;21,5;Cfa;Mata Atlantica;Ferralsols;0;4,983333333;30,53333333;2,42248062;Muito argilosa
-286;umida;447;2000;21,5;Cfa;Mata Atlantica;Ferralsols;0;4,583333333;3,883333333;2,296511628;Franco-argilossiltosa
-287;umida;447;2000;21,5;Cfa;Mata Atlantica;Ferralsols;0;4,466666667;26,98333333;2,151162791;Argila
-288;umida;447;2000;21,5;Cfa;Mata Atlantica;Ferralsols;0;4,75;11,11666667;2,151162791;Muito argilosa
-289;umida;662;2039;18;Cfa;Mata Atlantica;Ferralsols;0;3,966666667;5,966666667;2,38372093;Franco-argilossiltosa
-290;umida;662;2039;18;Cfa;Mata Atlantica;Ferralsols;12,8;4,366666667;8,3;2,703488372;Muito argilosa
-291;umida;662;2039;18;Cfa;Mata Atlantica;Ferralsols;16;5,233333333;19,13333333;2,228682171;Argila
-292;umida;532;1950;21,5;Cfa;Mata Atlantica;Nitisols;7,111111111;5,133333333;4,833333333;4,670542636;Argila
-293;umida;532;1950;21,5;Cfa;Mata Atlantica;Nitisols;12,44444444;4,466666667;3,133333333;2,674418605;Argila
-294;umida;532;1950;21,5;Cfa;Mata Atlantica;Nitisols;1,777777778;4,633333333;3,4;2,073643411;Argila
-295;umida;532;1950;21,5;Cfa;Mata Atlantica;Nitisols;19,55555556;5,266666667;15,77333333;2,228682171;Argila
-296;umida;532;1950;21,5;Cfa;Mata Atlantica;Nitisols;5,333333333;5,733333333;27,43333333;2,403100775;Argila
-297;umida;532;1950;21,5;Cfa;Mata Atlantica;Nitisols;5,333333333;5,466666667;32,46666667;2,829457364;Argila
-328;umida;1519;1705;14,8;Cfb;Mata Atlantica;Ferralsols;8,5;3,85;7,925;41,135;Argila
-329;umida;1519;1705;14,8;Cfb;Mata Atlantica;Ferralsols;10,5;3,8;6,25;23,245;Argila
-330;umida;1519;1705;14,8;Cfb;Mata Atlantica;Cambisols;7,5;3,75;8;38,655;Francoargilosa
-331;umida;767;1390;18;Cfb;Mata Atlantica;Acrisols;4,48;6,1;25,16666667;9,233333333;Franco-argiloarenosa
-332;umida;767;1390;18;Cfb;Mata Atlantica;Acrisols;3;6,1;24,3;9,5;Franco-argiloarenosa
-333;umida;767;1390;18;Cfb;Mata Atlantica;Acrisols;8,35;4,5;16,4;12,3;Franco-argiloarenosa
-334;umida;527;210;21,6;Cwa;Mata Atlantica;Ferralsols;2,67;5,333333333;2,183333333;11,82170543;Francoarenosa
-335;umida;510;210;21,6;Cwa;Mata Atlantica;Ferralsols;64;5,25;0,666666667;16,27906977;Francoarenosa
-336;umida;560;210;21,6;Cwa;Mata Atlantica;Ferralsols;61,3;5,466666667;1,35;43,31395349;Franca
-337;umida;398;1350;22,5;Cfa;Mata Atlantica;Nitisols;203,2;5,31;13,07666667;20,22;Muito argilosa
-350;umida;1000;1450;18;Cwb;Mata Atlantica;Ferralsols;224;4,4;2,13;47,09;Argila
-351;umida;1000;1450;18;Cwb;Mata Atlantica;Ferralsols;30,4;4,76;2,7;37,2;Argila
-352;umida;1000;1450;18;Cwb;Mata Atlantica;Ferralsols;43,3;4,98;4,53;30,23;Argila
-353;umida;1000;1450;18;Cwb;Mata Atlantica;Ferralsols;68,2;5,13;0,1;60,87;Francoargilosa
-354;umida;1000;1450;18;Cwb;Mata Atlantica;Ferralsols;99;6,23;8,97;76,16;Francoargilosa
-355;umida;1000;1450;18;Cwb;Mata Atlantica;Ferralsols;72;5,8;14,8;79,47;Francoargilosa
-356;umida;1000;1450;18;Cwb;Mata Atlantica;Ferralsols;3,2;5,2;1,87;31,39;Francoargilosa
-357;umida;1000;1450;18;Cwb;Mata Atlantica;Ferralsols;0;6,67;3,87;58,89;Argila
-358;umida;28;1000;26;Aw;Mata Atlantica;Acrisols;5,5;4,45;5,92;14,575;Franca
-359;umida;28;1000;26;Aw;Mata Atlantica;Acrisols;5,5;4,6;5,905;14,43;Franca
-360;umida;28;1000;26;Aw;Mata Atlantica;Acrisols;4;4,35;7,65;13,7;Franca
-361;umida;28;1000;26;Aw;Mata Atlantica;Acrisols;7;4,5;6,075;14,11;Franca
-362;umida;74;1473;24;Af;Mata Atlantica;Cambisols;48;3,37;1,58;14,2;Franco-argiloarenosa
-363;umida;72;1299;24;Af;Mata Atlantica;Cambisols;22;3,54;1,68;15;Franco-argiloarenosa
-373;umida;430;1450;22;Cfa;Mata Atlantica;Ferralsols;8,6;5;18,6;24,9;Muito argilosa
-374;umida;430;1450;22;Cfa;Mata Atlantica;Ferralsols;10;5,8;14,3;24,7;Muito argilosa
-375;umida;430;1450;22;Cfa;Mata Atlantica;Ferralsols;12,4;6,2;37,8;24,7;Muito argilosa
-376;umida;430;1450;22;Cfa;Mata Atlantica;Ferralsols;8,6;5,9;69,9;21,9;Muito argilosa
-377;umida;430;1450;22;Cfa;Mata Atlantica;Ferralsols;14,2;5,3;64,2;21,6;Muito argilosa
-378;umida;430;1450;22;Cfa;Mata Atlantica;Ferralsols;1;6,2;21,9;16,2;Muito argilosa
-379;umida;430;1450;22;Cfa;Mata Atlantica;Ferralsols;4,4;5,7;9,46;29,7;Muito argilosa
-380;umida;430;1450;22;Cfa;Mata Atlantica;Ferralsols;5,6;5,9;5,02;31,5;Muito argilosa
-381;umida;430;1450;22;Cfa;Mata Atlantica;Ferralsols;9,8;6,1;7,34;39,4;Muito argilosa
-382;umida;400;1400;24;Am;Mata Atlantica;Acrisols;1;4,6;6,6;4,13;Areia franca
-383;umida;400;1400;24;Am;Mata Atlantica;Acrisols;0;4,5;11,5;4,24;Areia franca
-384;umida;400;1400;24;Am;Mata Atlantica;Acrisols;4,9;4,5;13,3;4,42;Areia franca
-385;umida;400;1400;24;Am;Mata Atlantica;Acrisols;4,1;4,6;10,6;4,53;Areia franca
-386;umida;400;1400;24;Am;Mata Atlantica;Acrisols;6,3;4,4;1,9;5,12;Areia franca
-397;seca;327;1370;23,5;Aw;Mata Atlantica;Ferralsols;0;4,5;3,47;2,558139535;Franco-argiloarenosa
-398;seca;327;1370;23,5;Aw;Mata Atlantica;Ferralsols;25;4,1;3;3,488372093;Franco-argiloarenosa
-399;seca;327;1370;23,5;Aw;Mata Atlantica;Ferralsols;0;5,9;3,27;3,296511628;Franco-argiloarenosa
-400;seca;327;1370;23,5;Aw;Mata Atlantica;Ferralsols;0;5,8;3,13;2,674418605;Franco-argiloarenosa
-401;seca;327;1370;23,5;Aw;Mata Atlantica;Ferralsols;0;5,8;3,27;2,48255814;Franco-argiloarenosa
-402;seca;327;1370;23,5;Aw;Mata Atlantica;Ferralsols;13;4,8;27,4;6,936046512;Franco-argiloarenosa
-613;umida;17;2080;27,5;As;Mata Atlantica;Gleysols;54,4;5,18;3,5;20,30162413;Francoarenosa
-614;umida;5;2080;27,5;As;Mata Atlantica;Gleysols;92,8;4,46;3,3;20,47563805;Franco-argiloarenosa
-615;umida;4;2080;27,5;As;Mata Atlantica;Gleysols;38,4;4,52;1,6;10,03480278;Franco-argiloarenosa
-616;seca;27;2080;27,5;As;Mata Atlantica;Gleysols;57,6;4,7;3,5;19,60556845;Franco-argiloarenosa
-617;seca;11;2080;27,5;As;Mata Atlantica;Gleysols;54,4;4,58;5,6;21,17169374;Argiloarenosa
-619;seca;17;2080;27,5;As;Mata Atlantica;Gleysols;166,4;4,67;5,4;23,60788863;Argila
-666;umida;54;1800;26;As;Mata Atlantica;Acrisols;22,64666667;4,9;15;8,14;Areia franca
-667;umida;54;1800;26;As;Mata Atlantica;Acrisols;1,233333333;5,1;1,8;25;Areia franca
-668;umida;500;1500;22;As;Mata Atlantica;Acrisols;60,34;5,5;4,6;33,72;Franco-argiloarenosa
-669;umida;221;1400;23;Af;Mata Atlantica;Acrisols;125;3,726;2,68;48,22;Francoargilosa
-670;umida;216;1400;23;Af;Mata Atlantica;Acrisols;250;4,064;3,68;35,76;Franco-argiloarenosa
-671;umida;198;1400;23;Af;Mata Atlantica;Acrisols;615;4,102;2,08;42,68;Francoargilosa
-672;umida;101;1400;25;Af;Mata Atlantica;Acrisols;100;4,402;2,58;34,28;Franco-argiloarenosa
-673;umida;89;1400;25;Af;Mata Atlantica;Acrisols;320;4,498;2,42;31,76;Franco-argiloarenosa
-674;umida;113;1400;25;Af;Mata Atlantica;Acrisols;10;4,716;1,98;38,48;Francoarenosa
-675;umida;55;1480;24,5;Af;Mata Atlantica;Ferralsols;360;4,804;1,6;37,84;Franco-argiloarenosa
-676;umida;55;1480;24,5;Af;Mata Atlantica;Ferralsols;200;4,022;2,24;24,34;Francoarenosa
+1;seca;584;1614;20;Cfa;M Atlantica;Ferralsols;354,6666667;4,86;1,94;18,48;Argila
+2;umida;600;1750;21;Cfa;M Atlantica;Ferralsols;54;6,16;1,773333333;27,211;Muito argilosa
+3;umida;585;1750;21;Cfa;M Atlantica;Ferralsols;17,6;4,9;2,002173913;20,91913043;Muito argilosa
+4;umida;566;1614;20;Cfa;M Atlantica;Ferralsols;264,1;5,5;2,249166667;22,59166667;Argila
+5;umida;467;1614;20;Cfa;M Atlantica;Ferralsols;14,1;5,4;5,75;17,81095238;Argila
+6;umida;566;1614;20;Cfa;M Atlantica;Ferralsols;46,2;5,2;3,338;18,67133333;Argila
+7;umida;566;1614;20;Cfa;M Atlantica;Ferralsols;315;5;5,043333333;17,60933333;Argila
+8;umida;583;1686;24,1;Cfa;M Atlantica;Ferralsols;10,66666667;5,345416667;17,48625;16,7625;Muito argilosa
+9;umida;583;1686;24,1;Cfa;M Atlantica;Ferralsols;54;4,968333333;16,41583333;14,7225;Muito argilosa
+10;umida;583;1686;24,1;Cfa;M Atlantica;Ferralsols;13,33333333;5,135;15,3;18,05041667;Muito argilosa
+11;umida;583;1686;24,1;Cfa;M Atlantica;Ferralsols;36;5,155;20,84;18,715;Muito argilosa
+12;umida;583;1686;24,1;Cfa;M Atlantica;Ferralsols;2;5,050833333;19,71875;16,01791667;Muito argilosa
+13;umida;583;1686;24,1;Cfa;M Atlantica;Ferralsols;92;5,206666667;21,76578283;19,0619697;Muito argilosa
+14;umida;583;1686;24,1;Cfa;M Atlantica;Ferralsols;8;5,41625;13,22916667;16,50916667;Muito argilosa
+15;umida;583;1686;24,1;Cfa;M Atlantica;Ferralsols;2;5,255416667;21,775;16,98541667;Muito argilosa
+16;umida;583;1686;24,1;Cfa;M Atlantica;Ferralsols;104;5,1;18,7;14,552;Muito argilosa
+17;umida;582;1614;20;Cfa;M Atlantica;Ferralsols;332;5,5;2,25;22,59;Argila
+18;umida;550;1614;20;Cfa;M Atlantica;Nitisols;34,66666667;5,583333333;18,61111111;13,72739018;Argila
+19;umida;550;1614;20;Cfa;M Atlantica;Nitisols;45,33333333;5,788888889;21,83333333;14,72868217;Argila
+20;umida;576;1622;20,7;Cfa;M Atlantica;Ferralsols;3,35;4,4;11,3;13,265;Muito argilosa
+21;umida;576;1622;20,7;Cfa;M Atlantica;Ferralsols;27,3;4,75;21,55;16,95;Muito argilosa
+22;umida;674;1622;20,7;Cfa;M Atlantica;Nitisols;5,8;5;16;24;Muito argilosa
+23;umida;674;1622;20,7;Cfa;M Atlantica;Nitisols;13;5,2;32;28;Muito argilosa
+24;umida;1200;1422;20;Cfb;M Atlantica;Ferralsols;0;4,9;14,5;20,34;Muito argilosa
+25;umida;1200;1422;20;Cfb;M Atlantica;Ferralsols;0;4,9;14,5;20,34;Muito argilosa
+26;seca;630;2100;20;Cfa;M Atlantica;Ferralsols;51,3;5,9;34,92;12,33;Muito argilosa
+27;seca;630;2100;20;Cfa;M Atlantica;Ferralsols;214,4;5,7;1,07;7,74;Muito argilosa
+28;seca;630;2100;20;Cfa;M Atlantica;Ferralsols;38,4;6,1;9,56;17,97;Muito argilosa
+29;seca;630;2100;20;Cfa;M Atlantica;Ferralsols;195,2;4,1;1,39;15,09;Muito argilosa
+30;umida;699;1250;20;Cfa;M Atlantica;Ferralsols;17;4,2;4,1;32,1;Muito argilosa
+31;umida;666;1250;20;Cfa;M Atlantica;Ferralsols;130,75;5,4;15,1;22,7;Muito argilosa
+32;umida;688;1250;20;Cfa;M Atlantica;Ferralsols;4,75;4,5;1,9;24;Muito argilosa
+33;umida;675;1250;20;Cfa;M Atlantica;Ferralsols;16,5;5,5;56;20,2;Muito argilosa
+34;umida;700;1250;20;Cfa;M Atlantica;Ferralsols;15,75;6,6;3,4;17,5;Muito argilosa
+35;umida;499;1400;20,5;Cfa;M Atlantica;Ferralsols;39;5,187916667;5,06375;15,52916667;Muito argilosa
+36;umida;499;1400;20,5;Cfa;M Atlantica;Ferralsols;30;5,346111111;5,011666667;14,34333333;Muito argilosa
+41;umida;330;1200;28;Cfa;M Atlantica;Nitisols;48,33333333;5,425;6,645;9,563023256;Franco-argiloarenosa
+42;umida;255;1200;28;Cfa;M Atlantica;Nitisols;136,4666667;5,476666667;31,59044776;9,10375298;Argila
+43;umida;255;1200;28;Cfa;M Atlantica;Nitisols;170;5,96;20,05701493;10,30806509;Argila
+44;umida;292;1200;28;Cfa;M Atlantica;Nitisols;68,33333333;5,55;10,78;7,4400416;Francoargilosa
+45;umida;248;1200;28;Cfa;M Atlantica;Nitisols;150;4,765;32,94402985;5,9095536;Francoargilosa
+46;umida;290;1200;28;Cfa;M Atlantica;Ferralsols;128,75;5,186666667;15,93452736;11,51345739;Argila
+47;umida;290;1200;28;Cfa;M Atlantica;Ferralsols;400;5,853333333;30,48159204;12,14756745;Argila
+48;umida;290;1200;28;Cfa;M Atlantica;Ferralsols;165;5,353333333;10,54587065;14,18444864;Argila
+49;umida;275;1200;28;Cfa;M Atlantica;Nitisols;133,75;5,616666667;16,39960199;11,28447023;Argila
+50;umida;560;1200;28;Cfa;M Atlantica;Nitisols;93,75;5,5725;14,84160448;11,29401451;Argila
+51;umida;330;1200;28;Cfa;M Atlantica;Nitisols;5;5,8;4,63;19,65116279;Argila
+52;umida;330;1200;28;Cfa;M Atlantica;Nitisols;45;5,6;2,28;17,44186047;Francoargilosa
+53;umida;330;1200;28;Cfa;M Atlantica;Nitisols;55;5,7;7,05;21,22093023;Francoargilosa
+54;umida;330;1200;28;Cfa;M Atlantica;Nitisols;235;5,6;11,28;18,13953488;Argila
+55;umida;330;1200;28;Cfa;M Atlantica;Nitisols;55;5;1,51;22,03488372;Francoargilosa
+56;umida;280;1200;28;Cfa;M Atlantica;Nitisols;605;5,3;7,88;15,23255814;Argila
+57;umida;280;1200;28;Cfa;M Atlantica;Nitisols;65;5,8;13,04;20,46511628;Argila
+58;umida;280;1200;28;Cfa;M Atlantica;Nitisols;0;5,7;19,54;16,68604651;Muito argilosa
+59;umida;280;1200;28;Cfa;M Atlantica;Nitisols;305;5,8;56,45;15,23255814;Argila
+60;umida;280;1200;28;Cfa;M Atlantica;Nitisols;105;5,3;3,05;22,84883721;Argila
+61;umida;255;1200;28;Cfa;M Atlantica;Nitisols;190;5,3;9,56;18,89534884;Franca
+62;umida;255;1200;28;Cfa;M Atlantica;Nitisols;295;5;35,74;16,68604651;Francoargilosa
+63;umida;255;1200;28;Cfa;M Atlantica;Nitisols;10;5,6;5,43;17,44186047;Francoargilosa
+64;umida;255;1200;28;Cfa;M Atlantica;Nitisols;275;5,3;3,05;25,34883721;Franco-argilossiltosa
+65;umida;290;1200;28;Cfa;M Atlantica;Ferralsols;70;5,3;27,74;22,84883721;Argila
+66;umida;290;1200;28;Cfa;M Atlantica;Ferralsols;25;5,4;3,05;25,34883721;Argila
+67;umida;290;1200;28;Cfa;M Atlantica;Ferralsols;15;6,1;1,51;24,47674419;Francoargilosa
+68;umida;275;1200;28;Cfa;M Atlantica;Nitisols;80;5,8;34,55;18,89534884;Argila
+69;umida;275;1200;28;Cfa;M Atlantica;Nitisols;30;5,5;26,67;20,46511628;Muito argilosa
+70;umida;275;1200;28;Cfa;M Atlantica;Nitisols;125;4,9;4,63;17,44186047;Argila
+71;umida;275;1200;28;Cfa;M Atlantica;Nitisols;32,5;5;1,51;22,03488372;Muito argilosa
+72;umida;560;1200;28;Cfa;M Atlantica;Nitisols;0;4,9;16,68;22,84883721;Muito argilosa
+73;umida;560;1200;28;Cfa;M Atlantica;Nitisols;50;5,1;9,56;22,03488372;Muito argilosa
+74;umida;560;1200;28;Cfa;M Atlantica;Nitisols;50;5,4;17,62;20,46511628;Muito argilosa
+75;umida;560;1200;28;Cfa;M Atlantica;Nitisols;30;5,3;10,41;23,6627907;Muito argilosa
+76;umida;560;1200;28;Cfa;M Atlantica;Nitisols;20;4,5;13,93;20,46511628;Muito argilosa
+77;umida;560;1200;28;Cfa;M Atlantica;Nitisols;120;4,6;26,67;18,13953488;Argila
+78;umida;560;1200;28;Cfa;M Atlantica;Nitisols;55;5,3;0,75;12,5;Argila
+79;umida;560;1200;28;Cfa;M Atlantica;Nitisols;265;5,1;24,56;18,89534884;Argila
+80;umida;560;1200;28;Cfa;M Atlantica;Nitisols;285;4,9;0,75;27,09302326;Argila
+81;umida;389;1500;20;Cfa;M Atlantica;Ferralsols;0;5,59;13,12;10,07;Areia
+82;umida;376;1500;20;Cfa;M Atlantica;Ferralsols;33,6;6,044;10,26;11,15;Areia
+83;umida;380;1500;20;Cfa;M Atlantica;Ferralsols;9,165;5,857857143;17,79285714;10,35;Francoarenosa
+84;umida;412;1500;20;Cfa;M Atlantica;Ferralsols;14,4;4,447;8,91;7,99;Francoarenosa
+85;umida;402;1500;20;Cfa;M Atlantica;Ferralsols;3,2;5,652222222;12,45555556;8,811111111;Francoarenosa
+86;umida;398;1500;20;Cfa;M Atlantica;Ferralsols;21,165;5,433333333;9,153333333;6,74;Areia
+87;umida;366;1500;20;Cfa;M Atlantica;Ferralsols;10,4;5,537;3,83;17,56;Areia
+88;umida;286;1500;20;Aw;M Atlantica;Ferralsols;474;3,978333333;4,448333333;11,89666667;Areia
+89;umida;286;1500;20;Aw;M Atlantica;Ferralsols;61;4,366666667;7,83;12,87166667;Areia
+90;umida;286;1500;20;Aw;M Atlantica;Ferralsols;19;4,348333333;10,68;12,32166667;Areia
+91;umida;286;1500;20;Aw;M Atlantica;Ferralsols;86;4,565;7,536666667;12,08333333;Areia
+92;umida;945;1550;16;Cfb;M Atlantica;Cambisols;0,1;3,85;3,55;34,89;Francoarenosa
+93;umida;945;1550;16;Cfb;M Atlantica;Ferralsols;0,066666667;3,85;3,55;34,89;Francoarenosa
+94;umida;938;1450;12,5;Cfb;M Atlantica;Cambisols;214,4277778;4,4;2;3,6;Franco-argiloarenosa
+95;umida;938;1450;13,5;Cfb;M Atlantica;Cambisols;114,8166667;5;7,5;3,4;Franco-argiloarenosa
+96;umida;938;1450;14,5;Cfb;M Atlantica;Cambisols;138,5111111;4,7;5,3;3,1;Franco-argiloarenosa
+97;umida;938;1450;15,5;Cfb;M Atlantica;Cambisols;42,44444444;3,9;2,7;6,3;Argila
+98;umida;938;1450;12,5;Cfb;M Atlantica;Cambisols;24,75;3,9;4,6;4,7;Argila
+99;umida;938;1450;12,5;Cfb;M Atlantica;Cambisols;51,11851852;4,2;2,7;4;Argila
+100;umida;938;1450;12,5;Cfb;M Atlantica;Cambisols;2,5;3,7;3,4;5,2;Argiloarenosa
+101;umida;938;1450;12,5;Cfb;M Atlantica;Cambisols;11,3;4,2;3,3;4,6;Francoargilosa
+102;umida;938;1450;12,5;Cfb;M Atlantica;Cambisols;121,3;4,8;5,3;3,7;Franco-argiloarenosa
+103;umida;938;1450;12,5;Cfb;M Atlantica;Cambisols;48;3,8;2,7;3,1;Argila
+104;umida;938;1450;12,5;Cfb;M Atlantica;Cambisols;120;4,5;3,4;3,6;Franco-argiloarenosa
+105;umida;938;1450;12,5;Cfb;M Atlantica;Cambisols;31,3;3,8;2,5;3,1;Argila
+106;umida;938;1450;12,5;Cfb;M Atlantica;Ferralsols;18,9;4,2;2,1;2,5;Franco-argiloarenosa
+107;umida;938;1450;12,5;Cfb;M Atlantica;Cambisols;16,3;4,4;8;3,9;Franco-argiloarenosa
+108;umida;938;1450;12,5;Cfb;M Atlantica;Cambisols;48,8;4,7;17,6;4,2;Franco-argiloarenosa
+109;umida;938;1450;12,5;Cfb;M Atlantica;Ferralsols;15;4,5;2,04;31,5;Argiloarenosa
+110;umida;938;1450;12,5;Cfb;M Atlantica;Cambisols;98;4,4;1,66;31,2;Argiloarenosa
+111;umida;938;1450;12,5;Cfb;M Atlantica;Cambisols;311;4;3,36;33,8;Argiloarenosa
+112;umida;938;1450;12,5;Cfb;M Atlantica;Cambisols;305,5;4,2;1,48;30,7;Argiloarenosa
+113;umida;938;1450;12,5;Cfb;M Atlantica;Cambisols;72,5;4,3;1,6;29,2;Franco-argiloarenosa
+114;umida;40;2500;20;Cfa;M Atlantica;Cambisols;242,4;5,152;3,566666667;37,1;Francoargilosa
+115;umida;70;2500;20;Cfa;M Atlantica;Cambisols;140;4,774;2,566666667;41,16666667;Muito argilosa
+116;umida;30;2500;20;Cfa;M Atlantica;Cambisols;177,6;4,218;7,233333333;47,16666667;Argila
+117;umida;40;2500;20;Cfa;M Atlantica;Cambisols;150,4;4,076;2,466666667;42,56666667;Francoargilosa
+118;umida;90;2500;20;Cfa;M Atlantica;Cambisols;135,2;4,172;3,333333333;49,8;Argila
+119;umida;150;2500;20;Cfa;M Atlantica;Cambisols;149,6;4,856;2,466666667;35,3;Argila
+120;umida;60;2500;20;Cfa;M Atlantica;Cambisols;62,4;4,076;3,32;45,56666667;Francoargilosa
+121;umida;120;2500;20;Cfa;M Atlantica;Cambisols;85,6;4,218;2,7;41,16666667;Muito argilosa
+122;umida;120;2500;20;Cfa;M Atlantica;Cambisols;125,6;4,268;9,233333333;63,86666667;Argila
+123;umida;260;2500;20;Cfa;M Atlantica;Cambisols;52,8;4,182;7,633333333;38,93333333;Argila
+124;umida;90;2500;20;Cfa;M Atlantica;Cambisols;120,8;4,11;2,866666667;33,5;Argila
+125;umida;1036;1550;20;Cfb;M Atlantica;Cambisols;35,48888889;4,1;2,6;18,9;Argila
+126;umida;1183;1550;20;Cfb;M Atlantica;Regosols;8,422222222;3,83;3,6;19,6;Argila
+127;umida;1334;1550;20;Cfb;M Atlantica;Histosols;17,94444444;3,65;5,1;39,7;Argilossiltosa
+128;umida;1451;1550;20;Cfb;M Atlantica;Histosols;42,37777778;3,61;3,5;44,5;Francoargilosa
+129;umida;1477;1550;20;Cfb;M Atlantica;Histosols;5,577777778;3,73;3,6;33,5;Franco-argiloarenosa
+130;umida;1621;1550;20;Cfb;M Atlantica;Histosols;1,5;3,09;8,3;45,7;Franco-argiloarenosa
+131;umida;1771;1550;20;Cfb;M Atlantica;Histosols;0,866666667;3,11;7,6;44,5;Franca
+132;umida;1844;1550;20;Cfb;M Atlantica;Histosols;29,63333333;3,03;6,1;91,6;Franco-argilossiltosa
+133;umida;880;1530;16,5;Cfb;M Atlantica;Cambisols;1,7;5,333333333;1,288888889;14,95555556;Francoarenosa
+134;umida;880;1530;16,5;Cfb;M Atlantica;Cambisols;3,5;3,811111111;1,188888889;22,36666667;Francoarenosa
+135;umida;880;1530;16,5;Cfb;M Atlantica;Cambisols;5,3;3,616666667;1,4;26,05;Francoargilosa
+136;umida;880;1530;16,5;Cfb;M Atlantica;Cambisols;10,7;5,458888889;24,33333333;35,27777778;Francoarenosa
+137;umida;880;1530;16,5;Cfb;M Atlantica;Cambisols;39,1;4,373333333;5,066666667;29,15555556;Francoarenosa
+138;umida;880;1530;16,5;Cfb;M Atlantica;Cambisols;14,2;4,427777778;4,388888889;33,72222222;Francoarenosa
+139;umida;880;1530;16,5;Cfb;M Atlantica;Cambisols;3,6;3,908888889;3,666666667;41,33333333;Francoarenosa
+140;umida;880;1530;16,5;Cfb;M Atlantica;Cambisols;0;3,806666667;3,377777778;35,65555556;Francoarenosa
+141;umida;882;1755;16,5;Cfb;M Atlantica;Acrisols;5,33;6,104444444;35,98888889;13,78888889;Francoargilosa
+142;umida;882;1755;16,5;Cfb;M Atlantica;Acrisols;107;5,874444444;12,68888889;16,15555556;Francoargilosa
+143;umida;882;1755;16,5;Cfb;M Atlantica;Acrisols;1,78;4,931111111;36;12,42222222;Argila
+144;umida;882;1755;16,5;Cfb;M Atlantica;Acrisols;19,56;4,472222222;13,32222222;20,92222222;Francoargilosa
+145;umida;825;1700;18;Cfb;M Atlantica;Ferralsols;3,6;3,688;1,36;23,14;Argilossiltosa
+146;umida;825;1700;18;Cfb;M Atlantica;Ferralsols;26,4;4,298;2,7;23,1;Argila
+147;umida;825;1700;18;Cfb;M Atlantica;Histosols;2,4;3,792;2,8;21,74;Argila
+148;umida;825;1700;18;Cfb;M Atlantica;Ferralsols;1,2;3,79;2,96;18,42;Muito argilosa
+149;umida;825;1700;18;Cfb;M Atlantica;Ferralsols;0;3,786;2,8;19;Muito argilosa
+150;umida;825;1700;18;Cfb;M Atlantica;Ferralsols;25,2;3,908;1,88;18,4;Muito argilosa
+151;umida;825;1700;18;Cfb;M Atlantica;Ferralsols;16,8;3,78;2,18;17,02;Muito argilosa
+152;umida;825;1700;18;Cfb;M Atlantica;Ferralsols;16,8;3,784;1,7;19,4;Argila
+153;umida;880;1530;17,5;Cfb;M Atlantica;Ferralsols;0;3,418;2,56;20,82;Argilossiltosa
+154;umida;880;1530;17,5;Cfb;M Atlantica;Ferralsols;0;3,794;1,52;18,32;Argila
+155;umida;880;1530;17,5;Cfb;M Atlantica;Ferralsols;13,2;3,604;2,34;19,2;Argilossiltosa
+156;umida;880;1530;17,5;Cfb;M Atlantica;Ferralsols;9,6;3,468;3,04;17,52;Argila
+157;umida;880;1530;17,5;Cfb;M Atlantica;Ferralsols;1,2;3,602;2,52;19,42;Francoargilosa
+158;umida;880;1530;17,5;Cfb;M Atlantica;Ferralsols;3,6;3,776;2,26;15,16;Argilossiltosa
+159;umida;880;1530;17,5;Cfb;M Atlantica;Ferralsols;16,8;4,12;3,32;18,8;Argila
+160;umida;880;1530;17,5;Cfb;M Atlantica;Ferralsols;3,6;3,808;2,88;18,4;Argila
+161;umida;880;1530;17,5;Cfb;M Atlantica;Ferralsols;14,4;4,45;1,88;24,98;Argila
+162;umida;809;1500;17,5;Cfb;M Atlantica;Regosols;0;3,74;4,86;24,06;Franco-argiloarenosa
+163;umida;809;1500;17,5;Cfb;M Atlantica;Ferralsols;57,6;3,576;2,88;25,52;Argila
+164;umida;809;1500;17,5;Cfb;M Atlantica;Ferralsols;6;3,44;1,9;28,02;Muito argilosa
+165;umida;809;1500;17,5;Cfb;M Atlantica;Ferralsols;2,4;3,462;3,2;27,76;Argila
+166;umida;809;1500;17,5;Cfb;M Atlantica;Ferralsols;1,2;3,468;1,32;23,52;Muito argilosa
+167;umida;809;1500;17,5;Cfb;M Atlantica;Ferralsols;3,6;3,512;2,52;23,22;Argila
+168;umida;809;1500;17,5;Cfb;M Atlantica;Cambisols;34,8;3,572;3,04;27,7;Argila
+169;umida;809;1500;17,5;Cfb;M Atlantica;Ferralsols;4,8;3,518;2,2;23,86;Argila
+170;umida;809;1500;17,5;Cfb;M Atlantica;Ferralsols;24;3,478;1,74;27,26;Muito argilosa
+171;umida;700;1600;19;Cfb;M Atlantica;Ferralsols;62,4;3,842;1,78;19,24;Argila
+172;umida;700;1600;19;Cfb;M Atlantica;Ferralsols;21,6;3,856;1,8;18,4;Muito argilosa
+173;umida;700;1600;19;Cfb;M Atlantica;Ferralsols;92,4;3,858;1,62;22,28;Argila
+174;umida;700;1600;19;Cfb;M Atlantica;Ferralsols;126;3,602;1,82;19,4;Argila
+175;umida;700;1600;19;Cfb;M Atlantica;Ferralsols;25,2;3,724;1,62;19,22;Argila
+176;umida;700;1600;19;Cfb;M Atlantica;Ferralsols;145,2;3,866;1,76;16,24;Muito argilosa
+177;umida;700;1600;19;Cfb;M Atlantica;Ferralsols;93,6;3,96;1,74;23,42;Argila
+178;umida;700;1600;19;Cfb;M Atlantica;Ferralsols;32,4;3,974;0,66;21,64;Argila
+179;umida;700;1600;19;Cfb;M Atlantica;Ferralsols;38,4;3,982;1,48;22,24;Muito argilosa
+180;umida;1000;1850;18,5;Cfb;M Atlantica;Ferralsols;4,8;3,6;4,1;50,7;Muito argilosa
+181;umida;1000;1850;18,5;Cfb;M Atlantica;Ferralsols;11,2;3,6;4,1;50,7;Muito argilosa
+182;umida;1000;1850;18,5;Cfb;M Atlantica;Ferralsols;25,6;3,6;4,1;50,7;Muito argilosa
+183;umida;779;1473;17;Cfb;M Atlantica;Ferralsols;138,6666667;5,02;7,32;23,81;Muito argilosa
+184;umida;857;1473;17;Cfb;M Atlantica;Ferralsols;120,8888889;4,93;5,02;28,82;Muito argilosa
+185;umida;787;1473;17;Cfb;M Atlantica;Ferralsols;83,55555556;4,18;2,22;22,99;Argila
+186;umida;795;1473;17;Cfb;M Atlantica;Ferralsols;0;4,07;2,72;31,53;Muito argilosa
+187;umida;810;1473;17;Cfb;M Atlantica;Ferralsols;17,91111111;4,171;1,485;29,5;Muito argilosa
+188;umida;908;1950;18;Cfb;M Atlantica;Ferralsols;56,88666667;5;4,5;;Muito argilosa
+189;umida;908;1950;18;Cfb;M Atlantica;Ferralsols;69,31666667;5;9;;Muito argilosa
+190;umida;908;1950;18;Cfb;M Atlantica;Ferralsols;143,9933333;5,1;19,5;;Muito argilosa
+191;umida;908;1950;18;Cfb;M Atlantica;Ferralsols;32,88666667;5,1;22,7;;Muito argilosa
+192;umida;908;1950;18;Cfb;M Atlantica;Ferralsols;123,5466667;4,9;21,5;;Muito argilosa
+193;umida;908;1950;18;Cfb;M Atlantica;Ferralsols;33,79333333;5,2;45,3;;Muito argilosa
+194;umida;15;2100;19;Cfa;M Atlantica;Gleysols;117,3333333;4,255555556;15,93333333;16,73126615;Francoarenosa
+195;umida;15;2100;19;Cfa;M Atlantica;Gleysols;159,1111111;4,5;10,77777778;14,34108527;Franca
+196;umida;15;2100;19;Cfa;M Atlantica;Gleysols;119,1111111;4,622222222;9,6;14,14728682;Francoargilosa
+197;umida;15;2100;19;Cfa;M Atlantica;Gleysols;79,11111111;3,977777778;26,84444444;14,01808786;Franca
+198;umida;15;2100;19;Cfa;M Atlantica;Gleysols;29,33333333;4,388888889;33,72222222;12,08010336;Franco-argiloarenosa
+199;umida;36;1750;19,5;Cfa;M Atlantica;Acrisols;205,3333333;3,233333333;6,755555556;20,73643411;Argila
+200;umida;36;1750;19,5;Cfa;M Atlantica;Acrisols;158,2222222;3,677777778;5,188888889;12,98449612;Franco-argiloarenosa
+201;umida;36;1750;19,5;Cfa;M Atlantica;Acrisols;150,2222222;4,077777778;5,077777778;15,18087855;Argiloarenosa
+202;umida;36;1750;19,5;Cfa;M Atlantica;Acrisols;56,88888889;6,077777778;113;13,11369509;Franca
+203;umida;36;1750;19,5;Cfa;M Atlantica;Acrisols;50,66666667;4,266666667;19,62222222;14,40568475;Argiloarenosa
+204;umida;70;1650;18,5;Cfa;M Atlantica;Cambisols;24;4,622222222;6,5;15,05167959;Franco-argiloarenosa
+205;umida;70;1650;18,5;Cfa;M Atlantica;Cambisols;169,7777778;3,688888889;6,866666667;12,85529716;Francoarenosa
+206;umida;70;1650;18,5;Cfa;M Atlantica;Cambisols;40;4,666666667;45,52222222;24,80620155;Areia franca
+207;umida;70;1650;18,5;Cfa;M Atlantica;Cambisols;31,11111111;5,166666667;78,61111111;10,0129199;Franco-argiloarenosa
+208;umida;70;1650;18,5;Cfa;M Atlantica;Cambisols;104,8888889;4,155555556;37,32222222;8,527131783;Francoarenosa
+209;umida;149;1450;17,5;Cfa;M Atlantica;Acrisols;10,65;3,4;6,777777778;21,64082687;Francoargilosa
+210;umida;149;1450;17,5;Cfa;M Atlantica;Acrisols;121,8;4,277777778;6,511111111;15,50387597;Francoarenosa
+211;umida;149;1450;17,5;Cfa;M Atlantica;Acrisols;19,55;3,833333333;4,466666667;26,42118863;Francoarenosa
+212;umida;149;1450;17,5;Cfa;M Atlantica;Acrisols;35,55;4,777777778;84,48888889;29,90956072;Franco-argiloarenosa
+213;umida;149;1450;17,5;Cfa;M Atlantica;Acrisols;20,45;5,277777778;15,26666667;15,24547804;Francoarenosa
+214;umida;293;1580;17,5;Cfa;M Atlantica;Acrisols;4,45;3,166666667;8,288888889;24,41860465;Franco-argiloarenosa
+215;umida;293;1580;17,5;Cfa;M Atlantica;Acrisols;51,55;3,344444444;4,733333333;26,9379845;Argila
+216;umida;293;1580;17,5;Cfa;M Atlantica;Acrisols;17,8;3,977777778;5,388888889;36,88630491;Franco-argiloarenosa
+217;umida;293;1580;17,5;Cfa;M Atlantica;Acrisols;36,45;4,644444444;22,84444444;17,44186047;Franco-argiloarenosa
+218;umida;293;1580;17,5;Cfa;M Atlantica;Acrisols;33,8;4,977777778;41,72222222;12,91989664;Francoarenosa
+219;umida;714;2200;18,5;Cfa;M Atlantica;Ferralsols;7,111111111;3,877777778;4,955555556;27,90697674;Argila
+220;umida;709;2200;18,5;Cfa;M Atlantica;Ferralsols;5,333333333;4,366666667;4,8;23,70801034;Argila
+221;umida;723;2200;18,5;Cfa;M Atlantica;Ferralsols;16;3,944444444;4,344444444;29,78036176;Argila
+222;umida;714;2200;18,5;Cfa;M Atlantica;Ferralsols;15,11111111;4,6;8,866666667;22,15762274;Argila
+223;umida;746;2200;18,5;Cfa;M Atlantica;Ferralsols;8;4,777777778;15,93333333;22,48062016;Argila
+224;umida;648;2050;19,5;Cfa;M Atlantica;Ferralsols;6,222222222;3,722222222;5,766666667;30,16795866;Argila
+225;umida;659;2050;19,5;Cfa;M Atlantica;Ferralsols;8;3,977777778;5,1;23,4496124;Francoargilosa
+226;umida;660;2050;19,5;Cfa;M Atlantica;Ferralsols;72;4,588888889;3,5;28,03617571;Francoargilosa
+227;umida;641;2050;19,5;Cfa;M Atlantica;Ferralsols;31,11111111;4,977777778;8,944444444;21,05943152;Francoargilosa
+228;umida;642;2050;19,5;Cfa;M Atlantica;Ferralsols;17,77777778;5,577777778;17,11111111;21,25322997;Francoargilosa
+229;umida;623;2039;18;Cfa;M Atlantica;Ferralsols;3,555555556;3,444444444;5;27,97157623;Argila
+230;umida;653;2039;18;Cfa;M Atlantica;Ferralsols;4,444444444;4,1;5,488888889;24,03100775;Argila
+231;umida;642;2039;18;Cfa;M Atlantica;Ferralsols;16,88888889;4,777777778;6,233333333;27,00258398;Francoargilosa
+232;umida;593;2039;18;Cfa;M Atlantica;Ferralsols;10,66666667;4,377777778;18,08888889;26,29198966;Francoargilosa
+233;umida;679;2039;18;Cfa;M Atlantica;Ferralsols;3,555555556;4,722222222;11,71111111;26,87338501;Argila
+234;umida;1016;1740;17;Cfa;M Atlantica;Nitisols;11,55555556;4,504938272;9,019753086;25,10766581;Argila
+235;umida;989;1740;17;Cfa;M Atlantica;Nitisols;11,55555556;4,56351166;9,455281207;25,29189396;Argila
+236;umida;1004;1740;17;Cfa;M Atlantica;Nitisols;7,111111111;4,233333333;2,566666667;28,35917313;Argila
+237;umida;947;1740;17;Cfa;M Atlantica;Nitisols;34,66666667;4,722222222;7,777777778;24,74160207;Muito argilosa
+238;umida;923;1740;17;Cfa;M Atlantica;Nitisols;94,22222222;4,888888889;5,855555556;23,4496124;Argila
+239;umida;895;1700;17;Cfa;M Atlantica;Nitisols;7,111111111;4,4;3,866666667;34,56072351;Argila
+240;umida;852;1700;17;Cfa;M Atlantica;Nitisols;8,888888889;4,166666667;4,633333333;26,03359173;Argila
+241;umida;858;1700;17;Cfa;M Atlantica;Nitisols;19,55555556;4,411111111;3,344444444;30,10335917;Argila
+242;umida;873;1700;17;Cfa;M Atlantica;Nitisols;314,6666667;4,711111111;5,122222222;24,74160207;Muito argilosa
+243;umida;883;1700;17;Cfa;M Atlantica;Nitisols;10,66666667;5,055555556;4,322222222;23,70801034;Muito argilosa
+244;umida;919;1700;17;Cfa;M Atlantica;Cambisols;4,444444444;3,122222222;5,488888889;37,14470284;Franco-argiloarenosa
+245;umida;855;1700;17;Cfa;M Atlantica;Cambisols;1,777777778;3,377777778;4,077777778;27,3255814;Franco-argiloarenosa
+246;umida;900;1700;17;Cfa;M Atlantica;Cambisols;7,111111111;3,822222222;4,866666667;32,94573643;Franco-argiloarenosa
+247;umida;902;1700;17;Cfa;M Atlantica;Cambisols;56;4,722222222;13,23333333;32,36434109;Franco-argiloarenosa
+248;umida;879;1700;17;Cfa;M Atlantica;Cambisols;105,7777778;4,966666667;7,3;31,07235142;Franca
+249;umida;670;2039;18;Cfa;M Atlantica;Ferralsols;0;4,8;8,5;12,8;Muito argilosa
+250;umida;670;2039;18;Cfa;M Atlantica;Ferralsols;175,4;5,2;4;20,05;Muito argilosa
+251;umida;670;2039;18;Cfa;M Atlantica;Ferralsols;578,1;4,9;17,5;23,005;Muito argilosa
+252;umida;670;2039;18;Cfa;M Atlantica;Ferralsols;660,3;5,3;66;21,5;Argila
+253;umida;670;2039;18;Cfa;M Atlantica;Ferralsols;73,2;5,5;5,5;21;Muito argilosa
+254;umida;670;2039;18;Cfa;M Atlantica;Ferralsols;72,8;5;4,5;25,5;Muito argilosa
+255;umida;670;2039;18;Cfa;M Atlantica;Ferralsols;116;4,6;3,5;26,025;Argila
+256;umida;800;1750;16,5;Cfb;M Atlantica;Nitisols;6,4;4,316666667;3,516666667;3,042635659;Argilossiltosa
+257;umida;800;1750;16,5;Cfb;M Atlantica;Nitisols;116,8;4,983333333;4,366666667;2,403100775;Argilossiltosa
+258;umida;800;1750;16,5;Cfb;M Atlantica;Nitisols;33,6;4,283333333;6,433333333;2,403100775;Argilossiltosa
+259;umida;883;1800;17,5;Cfb;M Atlantica;Nitisols;9,6;4,233333333;3,5;3,236434109;Franco-argilossiltosa
+260;umida;883;1800;17,5;Cfb;M Atlantica;Nitisols;41,6;5,633333333;21,6;2,189922481;Argila
+261;umida;880;1950;18;Cfb;M Atlantica;Nitisols;9,6;5,233333333;5,383333333;2,994186047;Argilossiltosa
+262;umida;880;1950;18;Cfb;M Atlantica;Nitisols;1,6;4,1;3,4;2,906976744;Muito argilosa
+263;umida;880;1950;18;Cfb;M Atlantica;Nitisols;40;4,383333333;6,116666667;2,238372093;Muito argilosa
+264;umida;880;1950;18;Cfb;M Atlantica;Nitisols;51,2;4,3;6,4;2,984496124;Argila
+265;umida;797;1950;18,5;Cfb;M Atlantica;Ferralsols;0;5,466666667;4,05;2,102713178;Argilossiltosa
+266;umida;797;1950;18,5;Cfb;M Atlantica;Ferralsols;25,6;4,683333333;4,25;2,054263566;Muito argilosa
+267;umida;797;1950;18,5;Cfb;M Atlantica;Ferralsols;0;4,316666667;6,766666667;2,228682171;Muito argilosa
+268;umida;850;2000;18,5;Cfb;M Atlantica;Leptosols;22,4;4,066666667;7,366666667;2,26744186;Muito argilosa
+269;umida;850;2000;18,5;Cfb;M Atlantica;Leptosols;0;4,533333333;9,483333333;2,664728682;Argila
+270;umida;850;2000;18,5;Cfb;M Atlantica;Leptosols;9,6;4,783333333;8,383333333;2,509689922;Argila
+271;umida;900;1950;20,5;Cfb;M Atlantica;Leptosols;0;3,6;8,666666667;2,53875969;Muito argilosa
+272;umida;900;1950;20,5;Cfb;M Atlantica;Leptosols;6,4;4,466666667;15,71666667;2,490310078;Argila
+273;umida;900;1950;20,5;Cfb;M Atlantica;Leptosols;3,2;4,366666667;21,63333333;2,403100775;Argila
+274;umida;780;2250;19,5;Cfa;M Atlantica;Ferralsols;6,4;4,883333333;6,083333333;1,879844961;Francossiltosa
+275;umida;780;2250;19,5;Cfa;M Atlantica;Ferralsols;6,4;5,566666667;13,28333333;1,511627907;Francoargilosa
+276;umida;780;2250;19,5;Cfa;M Atlantica;Ferralsols;9,6;5,3;7,6;1,569767442;Francoargilosa
+277;umida;520;2100;19,5;Cfa;M Atlantica;Nitisols;3,2;4,216666667;2,95;2,189922481;Muito argilosa
+278;umida;520;2100;19,5;Cfa;M Atlantica;Nitisols;0;5,7;8,933333333;2,364341085;Muito argilosa
+279;umida;520;2100;19,5;Cfa;M Atlantica;Nitisols;54,4;4,183333333;13,96666667;1,724806202;Muito argilosa
+280;umida;578;2000;21,5;Cfa;M Atlantica;Cambisols;0;5,383333333;4,533333333;2,131782946;Franco-argilossiltosa
+281;umida;578;2000;21,5;Cfa;M Atlantica;Cambisols;0;4,6;5,583333333;1,976744186;Franco-argilossiltosa
+282;umida;578;2000;21,5;Cfa;M Atlantica;Cambisols;3,2;4,616666667;9,683333333;2,781007752;Argilossiltosa
+283;umida;547;1950;21,5;Cfa;M Atlantica;Ferralsols;3,2;4,65;7,5;2,325581395;Francoargilosa
+284;umida;547;1950;21,5;Cfa;M Atlantica;Ferralsols;0;5,816666667;42,35;2,296511628;Argila
+285;umida;547;1950;21,5;Cfa;M Atlantica;Ferralsols;0;4,983333333;30,53333333;2,42248062;Muito argilosa
+286;umida;447;2000;21,5;Cfa;M Atlantica;Ferralsols;0;4,583333333;3,883333333;2,296511628;Franco-argilossiltosa
+287;umida;447;2000;21,5;Cfa;M Atlantica;Ferralsols;0;4,466666667;26,98333333;2,151162791;Argila
+288;umida;447;2000;21,5;Cfa;M Atlantica;Ferralsols;0;4,75;11,11666667;2,151162791;Muito argilosa
+289;umida;662;2039;18;Cfa;M Atlantica;Ferralsols;0;3,966666667;5,966666667;2,38372093;Franco-argilossiltosa
+290;umida;662;2039;18;Cfa;M Atlantica;Ferralsols;12,8;4,366666667;8,3;2,703488372;Muito argilosa
+291;umida;662;2039;18;Cfa;M Atlantica;Ferralsols;16;5,233333333;19,13333333;2,228682171;Argila
+292;umida;532;1950;21,5;Cfa;M Atlantica;Nitisols;7,111111111;5,133333333;4,833333333;4,670542636;Argila
+293;umida;532;1950;21,5;Cfa;M Atlantica;Nitisols;12,44444444;4,466666667;3,133333333;2,674418605;Argila
+294;umida;532;1950;21,5;Cfa;M Atlantica;Nitisols;1,777777778;4,633333333;3,4;2,073643411;Argila
+295;umida;532;1950;21,5;Cfa;M Atlantica;Nitisols;19,55555556;5,266666667;15,77333333;2,228682171;Argila
+296;umida;532;1950;21,5;Cfa;M Atlantica;Nitisols;5,333333333;5,733333333;27,43333333;2,403100775;Argila
+297;umida;532;1950;21,5;Cfa;M Atlantica;Nitisols;5,333333333;5,466666667;32,46666667;2,829457364;Argila
+328;umida;1519;1705;14,8;Cfb;M Atlantica;Ferralsols;8,5;3,85;7,925;41,135;Argila
+329;umida;1519;1705;14,8;Cfb;M Atlantica;Ferralsols;10,5;3,8;6,25;23,245;Argila
+330;umida;1519;1705;14,8;Cfb;M Atlantica;Cambisols;7,5;3,75;8;38,655;Francoargilosa
+331;umida;767;1390;18;Cfb;M Atlantica;Acrisols;4,48;6,1;25,16666667;9,233333333;Franco-argiloarenosa
+332;umida;767;1390;18;Cfb;M Atlantica;Acrisols;3;6,1;24,3;9,5;Franco-argiloarenosa
+333;umida;767;1390;18;Cfb;M Atlantica;Acrisols;8,35;4,5;16,4;12,3;Franco-argiloarenosa
+334;umida;527;210;21,6;Cwa;M Atlantica;Ferralsols;2,67;5,333333333;2,183333333;11,82170543;Francoarenosa
+335;umida;510;210;21,6;Cwa;M Atlantica;Ferralsols;64;5,25;0,666666667;16,27906977;Francoarenosa
+336;umida;560;210;21,6;Cwa;M Atlantica;Ferralsols;61,3;5,466666667;1,35;43,31395349;Franca
+337;umida;398;1350;22,5;Cfa;M Atlantica;Nitisols;203,2;5,31;13,07666667;20,22;Muito argilosa
+350;umida;1000;1450;18;Cwb;M Atlantica;Ferralsols;224;4,4;2,13;47,09;Argila
+351;umida;1000;1450;18;Cwb;M Atlantica;Ferralsols;30,4;4,76;2,7;37,2;Argila
+352;umida;1000;1450;18;Cwb;M Atlantica;Ferralsols;43,3;4,98;4,53;30,23;Argila
+353;umida;1000;1450;18;Cwb;M Atlantica;Ferralsols;68,2;5,13;0,1;60,87;Francoargilosa
+354;umida;1000;1450;18;Cwb;M Atlantica;Ferralsols;99;6,23;8,97;76,16;Francoargilosa
+355;umida;1000;1450;18;Cwb;M Atlantica;Ferralsols;72;5,8;14,8;79,47;Francoargilosa
+356;umida;1000;1450;18;Cwb;M Atlantica;Ferralsols;3,2;5,2;1,87;31,39;Francoargilosa
+357;umida;1000;1450;18;Cwb;M Atlantica;Ferralsols;0;6,67;3,87;58,89;Argila
+358;umida;28;1000;26;Aw;M Atlantica;Acrisols;5,5;4,45;5,92;14,575;Franca
+359;umida;28;1000;26;Aw;M Atlantica;Acrisols;5,5;4,6;5,905;14,43;Franca
+360;umida;28;1000;26;Aw;M Atlantica;Acrisols;4;4,35;7,65;13,7;Franca
+361;umida;28;1000;26;Aw;M Atlantica;Acrisols;7;4,5;6,075;14,11;Franca
+362;umida;74;1473;24;Af;M Atlantica;Cambisols;48;3,37;1,58;14,2;Franco-argiloarenosa
+363;umida;72;1299;24;Af;M Atlantica;Cambisols;22;3,54;1,68;15;Franco-argiloarenosa
+373;umida;430;1450;22;Cfa;M Atlantica;Ferralsols;8,6;5;18,6;24,9;Muito argilosa
+374;umida;430;1450;22;Cfa;M Atlantica;Ferralsols;10;5,8;14,3;24,7;Muito argilosa
+375;umida;430;1450;22;Cfa;M Atlantica;Ferralsols;12,4;6,2;37,8;24,7;Muito argilosa
+376;umida;430;1450;22;Cfa;M Atlantica;Ferralsols;8,6;5,9;69,9;21,9;Muito argilosa
+377;umida;430;1450;22;Cfa;M Atlantica;Ferralsols;14,2;5,3;64,2;21,6;Muito argilosa
+378;umida;430;1450;22;Cfa;M Atlantica;Ferralsols;1;6,2;21,9;16,2;Muito argilosa
+379;umida;430;1450;22;Cfa;M Atlantica;Ferralsols;4,4;5,7;9,46;29,7;Muito argilosa
+380;umida;430;1450;22;Cfa;M Atlantica;Ferralsols;5,6;5,9;5,02;31,5;Muito argilosa
+381;umida;430;1450;22;Cfa;M Atlantica;Ferralsols;9,8;6,1;7,34;39,4;Muito argilosa
+382;umida;400;1400;24;Am;M Atlantica;Acrisols;1;4,6;6,6;4,13;Areia franca
+383;umida;400;1400;24;Am;M Atlantica;Acrisols;0;4,5;11,5;4,24;Areia franca
+384;umida;400;1400;24;Am;M Atlantica;Acrisols;4,9;4,5;13,3;4,42;Areia franca
+385;umida;400;1400;24;Am;M Atlantica;Acrisols;4,1;4,6;10,6;4,53;Areia franca
+386;umida;400;1400;24;Am;M Atlantica;Acrisols;6,3;4,4;1,9;5,12;Areia franca
+397;seca;327;1370;23,5;Aw;M Atlantica;Ferralsols;0;4,5;3,47;2,558139535;Franco-argiloarenosa
+398;seca;327;1370;23,5;Aw;M Atlantica;Ferralsols;25;4,1;3;3,488372093;Franco-argiloarenosa
+399;seca;327;1370;23,5;Aw;M Atlantica;Ferralsols;0;5,9;3,27;3,296511628;Franco-argiloarenosa
+400;seca;327;1370;23,5;Aw;M Atlantica;Ferralsols;0;5,8;3,13;2,674418605;Franco-argiloarenosa
+401;seca;327;1370;23,5;Aw;M Atlantica;Ferralsols;0;5,8;3,27;2,48255814;Franco-argiloarenosa
+402;seca;327;1370;23,5;Aw;M Atlantica;Ferralsols;13;4,8;27,4;6,936046512;Franco-argiloarenosa
+613;umida;17;2080;27,5;As;M Atlantica;Gleysols;54,4;5,18;3,5;20,30162413;Francoarenosa
+614;umida;5;2080;27,5;As;M Atlantica;Gleysols;92,8;4,46;3,3;20,47563805;Franco-argiloarenosa
+615;umida;4;2080;27,5;As;M Atlantica;Gleysols;38,4;4,52;1,6;10,03480278;Franco-argiloarenosa
+616;seca;27;2080;27,5;As;M Atlantica;Gleysols;57,6;4,7;3,5;19,60556845;Franco-argiloarenosa
+617;seca;11;2080;27,5;As;M Atlantica;Gleysols;54,4;4,58;5,6;21,17169374;Argiloarenosa
+619;seca;17;2080;27,5;As;M Atlantica;Gleysols;166,4;4,67;5,4;23,60788863;Argila
+666;umida;54;1800;26;As;M Atlantica;Acrisols;22,64666667;4,9;15;8,14;Areia franca
+667;umida;54;1800;26;As;M Atlantica;Acrisols;1,233333333;5,1;1,8;25;Areia franca
+668;umida;500;1500;22;As;M Atlantica;Acrisols;60,34;5,5;4,6;33,72;Franco-argiloarenosa
+669;umida;221;1400;23;Af;M Atlantica;Acrisols;125;3,726;2,68;48,22;Francoargilosa
+670;umida;216;1400;23;Af;M Atlantica;Acrisols;250;4,064;3,68;35,76;Franco-argiloarenosa
+671;umida;198;1400;23;Af;M Atlantica;Acrisols;615;4,102;2,08;42,68;Francoargilosa
+672;umida;101;1400;25;Af;M Atlantica;Acrisols;100;4,402;2,58;34,28;Franco-argiloarenosa
+673;umida;89;1400;25;Af;M Atlantica;Acrisols;320;4,498;2,42;31,76;Franco-argiloarenosa
+674;umida;113;1400;25;Af;M Atlantica;Acrisols;10;4,716;1,98;38,48;Francoarenosa
+675;umida;55;1480;24,5;Af;M Atlantica;Ferralsols;360;4,804;1,6;37,84;Franco-argiloarenosa
+676;umida;55;1480;24,5;Af;M Atlantica;Ferralsols;200;4,022;2,24;24,34;Francoarenosa
 298;umida;13;1835;22;Cfa;Pampa;Podzols;2,666666667;4,5;3,466666667;56,435;Francoarenosa
 299;umida;2;1835;22;Cfa;Pampa;Gleysols;149,3333333;4,366666667;3,15;58,86666667;Franco-argiloarenosa
 300;umida;17;1835;22;Cfa;Pampa;Planosols;194,6666667;3,983333333;16,75;18,7;Franca

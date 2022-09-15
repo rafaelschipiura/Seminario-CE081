@@ -11,14 +11,15 @@ dados$Clima <- as.factor(dados$Clima)
 dados$Bioma <- as.factor(dados$Bioma)
 dados$Solofao <- as.factor(dados$Solofao)
 dados$Textura <- as.factor(dados$Textura)
-dados$phk <- cut(dados$ph, breaks=c(3,4,5,6,7,8))
-dados$phk <- as.factor(dados$phk)
+dados$pH <- cut(dados$pH, breaks=c(3,4,5,6,7,8))
+dados$pH <- as.factor(dados$pH)
 # variavel resposta "Dens"
 summary(dados)
 
 # box-plot Solofao
 png(filename="boxplot_Solofao.png")
-ggplot(dados, aes(x = Solofao, y = Dens)) + geom_boxplot()
+ggplot(dados, aes(x = Solofao, y = Dens)) + geom_boxplot() +
+theme(axis.text.x = element_text(angle=45, vjust=.5, hjust=1))
 png(filename="boxplot_Solofao_log.png")
 ggplot(dados, aes(x = Solofao, y = log(Dens))) + geom_boxplot()
 
@@ -41,8 +42,8 @@ png(filename="boxplot_Textura_log.png")
 ggplot(dados, aes(x = Textura, y = log(Dens))) + geom_boxplot()
 
 # box-plot Ph
-png(filename="boxplot_Ph.png")
-ggplot(dados, aes(x = phk, y = Dens)) + geom_boxplot()
-png(filename="boxplot_Ph_log.png")
-ggplot(dados, aes(x = phk, y = log(Dens))) + geom_boxplot()
+png(filename="boxplot_PH.png")
+ggplot(dados, aes(x = pH, y = Dens)) + geom_boxplot()
+png(filename="boxplot_PH_log.png")
+ggplot(dados, aes(x = pH, y = log(Dens))) + geom_boxplot()
 
