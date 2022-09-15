@@ -39,7 +39,8 @@ ggplot(dados, aes(x = Bioma, y = log(Dens))) + geom_boxplot()
 png(filename="boxplot_Textura.png")
 ggplot(dados, aes(x = Textura, y = Dens)) + geom_boxplot()
 png(filename="boxplot_Textura_log.png")
-ggplot(dados, aes(x = Textura, y = log(Dens))) + geom_boxplot()
+ggplot(dados, aes(x = Textura, y = log(Dens))) + geom_boxplot() +
+theme(axis.text.x = element_text(angle=45, vjust=.5, hjust=0.5))
 
 # box-plot Ph
 png(filename="boxplot_PH.png")
